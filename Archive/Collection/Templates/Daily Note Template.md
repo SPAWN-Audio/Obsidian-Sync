@@ -7,10 +7,6 @@ Author: Cody Cork
 
 # Brain Dump
 
-## 
-- 
-
-##
 - 
 
 # Created Notes

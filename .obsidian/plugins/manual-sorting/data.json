@@ -50,6 +50,7 @@
     },
     "Archive/Collection/Articles": {
       "children": [
+        "Archive/Collection/Articles/Stereo Microphone Techniques.pdf",
         "Archive/Collection/Articles/Building Simple Contact Microphone - Zach Poff.pdf",
         "Archive/Collection/Articles/Cyberpunk 2077 Mixing.pdf",
         "Archive/Collection/Articles/Early Access Announcements - Skill Sound Design in Path of Exile 2 - Forum - Path of Exile.pdf",
@@ -750,11 +751,11 @@
     },
     "House": {
       "children": [
+        "House/Notes",
         "House/Documents",
         "House/Homelab",
         "House/House Invoices",
-        "House/House Work & Repairs",
-        "House/Notes"
+        "House/House Work & Repairs"
       ],
       "sortOrder": "custom"
     },
@@ -788,7 +789,8 @@
         "House/Homelab/Homelab Setup.md",
         "House/Homelab/LCD Touchscreen Case - Raspberry Pi.md",
         "House/Homelab/ProxBox - Setting up Homelab Servers.md",
-        "House/Homelab/xpt2046-datasheet.pdf"
+        "House/Homelab/xpt2046-datasheet.pdf",
+        "House/Homelab/Plex, Jellyfin, Media Server & Arr Apps.md"
       ],
       "sortOrder": "custom"
     },
@@ -797,7 +799,8 @@
         "House/House Invoices/Electric Bill",
         "House/House Invoices/Gas Bill",
         "House/House Invoices/Internet Bill",
-        "House/House Invoices/Misc Bills"
+        "House/House Invoices/Misc Bills",
+        "House/House Invoices/plumbing invoice 176 orrong road Lthlain.pdf"
       ],
       "sortOrder": "custom"
     },
@@ -910,7 +913,10 @@
         "House/House Work & Repairs/Replacement Wall Switch (Roller Shutter).md",
         "House/House Work & Repairs/Fix 'Water Hammer' - House.md",
         "House/House Work & Repairs/House Repairs & Issues - Electrical.md",
-        "House/House Work & Repairs/Wiring Smart Doorbell.md"
+        "House/House Work & Repairs/Wiring Smart Doorbell.md",
+        "House/House Work & Repairs/How to Remove Paint from Brick | Five Star Painting.pdf",
+        "House/House Work & Repairs/How to Paint Ikea Furniture - The Crafted Life.pdf",
+        "House/House Work & Repairs/Exposing a Brick Wall in Your House — The OTTO HOUSE.pdf"
       ],
       "sortOrder": "custom"
     },
@@ -937,81 +943,15 @@
     },
     "Inbox": {
       "children": [
-        "Inbox/🌐 Homepage.md",
-        "Inbox/Beginners Guide to Digital Asset Management.pdf",
-        "Inbox/Build Your Own Max For Live Devices: A Beginner's Guide.pdf",
-        "Inbox/Business _ Work Mindset - Slab.md",
-        "Inbox/CBA - Business Acc Welcome Letter.pdf",
-        "Inbox/Comet Manual.pdf",
-        "Inbox/Creative Market Receipt (#136392421).pdf",
-        "Inbox/Crush+User+Guide.pdf",
-        "Inbox/DIY Acoustic Panels : 11 Steps (with Pictures) - Instructables.pdf",
-        "Inbox/DIY RELEASING MUSIC HANDBOOK.pdf",
-        "Inbox/DJ Equipment Hire Agreement | TLSA.pdf",
-        "Inbox/Dodge Pro Manual.pdf",
-        "Inbox/DS-10 Drum Shaper Manual.pdf",
-        "Inbox/DVS_P_Vehicle_Renewal_Direct_Debit_Request_Agreement.pdf",
-        "Inbox/Easiest DIY Acoustic Panels Under $20 | FixThisBuildThat.pdf",
-        "Inbox/Filterverse Manual.pdf",
-        "Inbox/Filtron Manual.pdf",
-        "Inbox/FORMAT PORTFOLIO OFFER FOR STUDENTS.docx.pdf",
-        "Inbox/FreeAMP manual.pdf",
-        "Inbox/Gatekeeper Manual.pdf",
-        "Inbox/Gemini - Deep Research.pdf",
-        "Inbox/Gemini - Deep Research.rtf",
-        "Inbox/gemini_for_workspace_prompt_guide_october_2024_digital_final.pdf",
-        "Inbox/Goal-Setting Theory: Why It’s Important, and How to Use It at Work.pdf",
-        "Inbox/google_workspace_ai_powered_collab_for_organizations_of_all_sizes.pdf",
-        "Inbox/google_workspace_notebooklm_ebook.pdf",
-        "Inbox/gws_gemini_advanced_one_ebook.pdf",
-        "Inbox/Habit Tracking _ New Process - Slab.md",
-        "Inbox/How I Organise My Ableton Library + Free Ableton Pack - KILLSTARR.pdf",
-        "Inbox/I Wish - Manual.pdf",
-        "Inbox/Jayden Healey.png",
-        "Inbox/Kleenheat - SEP-DEC 2024.pdf",
-        "Inbox/KLU - Read Me!.rtf",
-        "Inbox/Kontakt Library Utility (KLU) V2.pdf",
-        "Inbox/live12-manual-en 2.pdf",
-        "Inbox/live12-manual-en.pdf",
-        "Inbox/Making It Happen - How to Create a Sustainable Career in the -- Hannah Trigwell 2024.pdf",
-        "Inbox/Malware - Ch2 Persistence.pdf",
-        "Inbox/Manipulator Manual.pdf",
-        "Inbox/Mingsian R. Bai, Jeong_Guon Ih, Jacob Benesty(auth.) - Acoustic Array Systems_ Theory, Implementation, and Application.pdf",
-        "Inbox/MIXING-DRUMS-CHEAT-SHEET.pdf",
-        "Inbox/Music Career Launch and Growth Plan.pdf",
-        "Inbox/Music Marketing Trends - Breakdown.pdf",
-        "Inbox/MUSIC PRODUCTION • TEACHING AGREEMENT.pdf",
-        "Inbox/NuPhy_Air60_V2_Quick_Guide.pdf",
-        "Inbox/Personal — 15 Ideas for Covering & Enhancing Interior Brick Walls | Houzz AU.pdf",
-        "Inbox/Personal — Exposing a Brick Wall in Your House — The OTTO HOUSE.pdf",
-        "Inbox/Personal — How to Paint Ikea Furniture - The Crafted Life.pdf",
-        "Inbox/Personal — How to Remove Paint from Brick | Five Star Painting.pdf",
-        "Inbox/plumbing invoice 176 orrong road Lthlain.pdf",
-        "Inbox/pmi-pulse-of-the-profession-2023-report.pdf",
-        "Inbox/PRO TOOLS FUNDAMENTALS II (PT110) -- Frank D_ Cook -- PT110, 2020-2021 -- Avid Technology Incorporated -- 9781943446858 -- 1e0a597b5390ff5ab8008826fca8b843 -- Anna’s Archive.pdf",
-        "Inbox/ProducerContractFactSheet_web.pdf",
-        "Inbox/Rule of 2 • Shoot Day Sound Equipment Scratch List.pdf",
-        "Inbox/Rule Tec Collection - User Manual & Licensing Agreement.pdf",
-        "Inbox/Rule Tec Collection Manual.pdf",
-        "Inbox/SM_IdleHands_Presentation_V1_1699325327599_0.pdf",
-        "Inbox/SOA IF16aBN_113184101245.PDF",
-        "Inbox/SpaceBlender ReadMe.rtf",
-        "Inbox/Stereo Microphone Techniques.pdf",
-        "Inbox/Supermodal Manual.pdf",
-        "Inbox/The Ableton Workflow Bible -- Connor O'Brien -- fd7dd60e025c0ab0cf696a907ba1a63c -- Anna’s Archive.pdf",
-        "Inbox/The Music Producer's Creative Guide to Ableton Live 11 - -- Lakatos, Anna -- Packt Publishing, Birmingham, 2023 -- Packt Publishing, Limited -- 9781801817639 -- 7a8255a5dd32dcf567688f8cf1449541 -- Anna’s Archive.pdf",
-        "Inbox/TLSA - ASIC Welcom Letter.pdf",
-        "Inbox/TLSA • Record of Business Name.PDF",
-        "Inbox/TLSA ABN Info.pdf",
-        "Inbox/TLSALearn • Thiago Pereira MPT000001.pdf",
-        "Inbox/TLSALearn • Thiago Pereira MPT000002.pdf",
-        "Inbox/Tokyo Cyberpunk - Posthumanism in Japanese Visual Culture -- Brown, Steven T_; -- Springer Nature, New York, 2010 -- [distributor] Macmillan -- 9780230103597 -- a8213c24717b2cf17fd78afd32dffaf4 -- Anna’s Archive.pdf",
-        "Inbox/Using Grooves — Ableton Reference Manual Version 12 | Ableton.pdf",
-        "Inbox/Water Filter Invoice - IN000433.pdf",
-        "Inbox/Wider Manual.pdf",
         "Inbox/Picking an IDE & Testing out Tower Git.md",
         "Inbox/Testing out new Web Browsers.md",
-        "Inbox/Sidebar Favourites - Custom Finder Sidebar Icons.md"
+        "Inbox/Sidebar Favourites - Custom Finder Sidebar Icons.md",
+        "Inbox/Apple Freeform.md",
+        "Inbox/YouTube Transcript Extractor.md",
+        "Inbox/Becoming a Full-time Artist (Video Notes).md",
+        "Inbox/Setting up House Databases & Docs Archive.md",
+        "Inbox/Obsidian & Backing Up via Github.md",
+        "Inbox/Intention Setting & Creative Work Systems.md"
       ],
       "sortOrder": "custom"
     },
@@ -1287,7 +1227,8 @@
         "Personal/Journal/Daily Notes/2026/2026-06-05.md",
         "Personal/Journal/Daily Notes/2026/2026-06-06.md",
         "Personal/Journal/Daily Notes/2026/2026-06-10.md",
-        "Personal/Journal/Daily Notes/2026/2026-06-12.md"
+        "Personal/Journal/Daily Notes/2026/2026-06-12.md",
+        "Personal/Journal/Daily Notes/2026/2026-06-13.md"
       ],
       "sortOrder": "custom"
     },
@@ -1337,8 +1278,8 @@
     },
     "SPAWN & SIGNAL": {
       "children": [
-        "SPAWN & SIGNAL/Documents",
         "SPAWN & SIGNAL/Notes",
+        "SPAWN & SIGNAL/Documents",
         "SPAWN & SIGNAL/SPAWN Archive",
         "SPAWN & SIGNAL/SIGNAL Audioworks",
         "SPAWN & SIGNAL/Projects",
@@ -1388,6 +1329,8 @@
     },
     "SPAWN & SIGNAL/Notes": {
       "children": [
+        "SPAWN & SIGNAL/Notes/Habit Tracking _ New Process - Slab.md",
+        "SPAWN & SIGNAL/Notes/Business _ Work Mindset - Slab.md",
         "SPAWN & SIGNAL/Notes/SPAWN Audio - Business Statement.md",
         "SPAWN & SIGNAL/Notes/Fixing - Focusrite Scarlet 18i20 (USB Issue).md",
         "SPAWN & SIGNAL/Notes/Phase Distortion - Music Production.md",
