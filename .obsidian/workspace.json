@@ -11,10 +11,15 @@
             "id": "8866a357b6ae0415",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Personal/Journal/Daily Notes/2026/2026-06-12.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2026-06-12"
             }
           }
         ]
