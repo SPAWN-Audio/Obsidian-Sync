@@ -1,0 +1,12 @@
+{
+  "alwaysUpdateLinks": true,
+  "uriCallbacks": true,
+  "readableLineLength": true,
+  "attachmentFolderPath": "Inbox",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Inbox",
+  "propertiesInDocument": "visible",
+  "openBehavior": "daily",
+  "showUnsupportedFiles": true,
+  "promptDelete": true
+}

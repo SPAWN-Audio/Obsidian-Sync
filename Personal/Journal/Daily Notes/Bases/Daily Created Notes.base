@@ -1,0 +1,12 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.ctime.date() == today()
+    order:
+      - file.name
+      - tags
+      - Type
+    columnSize:
+      file.name: 267

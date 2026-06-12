@@ -1,0 +1,122 @@
+    public int playerLevel = 1;
+    public int playerMaxLevel = 5;
+    public int playerHealth = 10;
+    public int playerMaxHealth = 10;
+    public int playerAttack = 5;
+
+    public float playerCurrentXp;
+    public float playerXpThreshold = 10.0f;
+    public float attackStatMultiplier = 1.25f;
+    public int thresholdMultiplier = 20;
+
+    public bool isThresholdReached;
+    public bool isLevelFive;
+
+
+    public UIManager uiManager;
+    public BattleHandler battleHandler;
+
+    // Start is called once before the first execution of Update after the MonoBehaviour is created
+    void Start()
+    {
+        uiManager = FindFirstObjectByType<UIManager>();
+
+        battleHandler = FindFirstObjectByType<BattleHandler>();
+
+
+
+       // Debug.Log("Press [A] key to increase your XP");    
+    }
+
+    // Update is called once per frame
+    void Update()
+    {
+        //if (Keyboard.current.aKey.wasPressedThisFrame)
+        //{
+        //    IncreaseXp();
+        //}
+
+        if (playerCurrentXp >= playerXpThreshold)
+        {
+            isThresholdReached = true;
+
+            Debug.Log("You have leveled up! Press [Space] to evolve!");
+
+            if (Keyboard.current.spaceKey.wasPressedThisFrame)
+            {
+                IncreasePlayerLevel();
+            }
+        }
+        else
+        {
+            isThresholdReached = false;
+        }
+
+       
+    }
+
+    
+
+    public void IncreaseXp()
+    {
+        float randomXp = Random.Range(1.0f, 5.0f);
+
+        playerCurrentXp = (playerCurrentXp + randomXp);
+
+        Debug.Log("Player gained " + randomXp + " XP, their XP is now: " + playerCurrentXp + "/" + playerXpThreshold);
+
+        //IncreasePlayerLevel();
+    }
+
+    private void IncreasePlayerLevel()
+    {
+        if (isThresholdReached == true)
+        {
+            playerLevel++;
+            Debug.Log("Your level has increased to " + playerLevel);
+
+            playerMaxHealth = (playerMaxHealth + 5);
+            Debug.Log("Your max health has increased to " + playerMaxHealth);
+
+            playerAttack = (((int)attackStatMultiplier) * playerAttack);
+            Debug.Log("Your attack stat has increased to " + playerAttack);
+
+            playerXpThreshold = (playerXpThreshold + thresholdMultiplier);
+            Debug.Log("Your XP Threshold has increased to " + playerXpThreshold);
+
+            UpdateUI();
+
+        }
+        else
+        {
+            isThresholdReached = false;
+        }    
+       
+
+    }
+        
+         
+
+        
+
+    private void UpdateUI()
+    {
+        if (uiManager != null)
+        {
+            uiManager.SetPlayerLevel(playerLevel);
+
+            uiManager.SetPlayerMaxHealth(playerMaxHealth);
+
+        }
+        if (battleHandler != null)
+        {
+            battleHandler.SetPlayerAttackStat(playerAttack);
+        }
+        else
+        {
+            Debug.Log("You don't have a reference for the UI Manager");
+        }
+    }
+
+
+}

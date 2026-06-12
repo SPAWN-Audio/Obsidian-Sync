@@ -1,0 +1,68 @@
+/*
+
+This CSS file will be included with your plugin, and
+available in the app when your plugin is enabled.
+
+If your plugin does not need CSS, delete this file.
+
+*/
+.image-style-rounded-none {
+	border-radius: 0;
+}
+.image-style-rounded-xs {
+	border-radius: 0.125rem;
+}
+.image-style-rounded-sm {
+	border-radius: 0.25rem;
+}
+.image-style-rounded-md {
+	border-radius: 0.375rem;
+}
+.image-style-rounded-lg {
+	border-radius: 0.5rem;
+}
+.image-style-rounded-xl {
+	border-radius: 0.75rem;
+}
+.image-style-rounded-2xl {
+	border-radius: 1rem;
+}
+.image-style-rounded-3xl {
+	border-radius: 1.5rem;
+}
+.image-style-rounded-4xl {
+	border-radius: 2rem;
+}
+.image-border-width-none {
+	border-width: 0px;
+}
+.image-border-width-thin {
+	border-width: 1px;
+}
+.image-border-width-standard {
+	border-width: 2px;
+}
+.image-border-width-thick {
+	border-width: 3px;
+}
+.image-border-width-medium-heavy {
+	border-width: 4px;
+}
+.image-border-width-heavy {
+	border-width: 5px;
+}
+.image-border-solid {
+	border-style: solid;
+}
+.image-border-color-light {
+	border-color: #e0e0e0;
+	/* border-color: #f0f0f0; */
+}
+.image-border-color-dark {
+	border-color: #333333;
+	/* border-color: #222222; */
+}
+.image-border-color-custom {
+	border-color: var(--border-color-custom, #a64e4e);
+	/* border-color: #222222; */
+}

@@ -1,0 +1,23 @@
+{
+  "basePath": "https://www.peerdraft.app",
+  "subscriptionAPI": "https://www.peerdraft.app/subscription",
+  "connectAPI": "https://www.peerdraft.app/subscription/connect",
+  "sessionAPI": "https://www.peerdraft.app/session",
+  "sync": "wss://www.peerdraft.app/sync",
+  "signaling": "wss://www.peerdraft.app/signal",
+  "actives": "wss://www.peerdraft.app/actives",
+  "name": "squeakyvermin",
+  "root": "SPAWN & SIGNAL/Peerdraft Share",
+  "plan": {
+    "type": "Pro Trial",
+    "email": "codycork@icloud.com"
+  },
+  "duration": 0,
+  "debug": false,
+  "version": "2.22.1",
+  "serverShares": {
+    "files": [],
+    "folders": []
+  },
+  "oid": "e7ae4ae491e6da08"
+}

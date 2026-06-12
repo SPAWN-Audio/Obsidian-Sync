@@ -1,0 +1,306 @@
+{
+  "main": {
+    "id": "ff5c880456533273",
+    "type": "split",
+    "children": [
+      {
+        "id": "b1d1fad45c4e92d6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5d35cd6715793d1c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personal/Journal/Daily Notes/2026/2026-06-10.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-06-10"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bb57d1ae8f3a842b",
+    "type": "split",
+    "children": [
+      {
+        "id": "b32384fdd32cc54a",
+        "type": "tabs",
+        "dimension": 81.31997642899233,
+        "children": [
+          {
+            "id": "483269982a01a0a8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "custom",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "db216252eb87eda6",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "a79bedfc8afeb07e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "a0208933c4b75933",
+            "type": "leaf",
+            "state": {
+              "type": "daily-note-calendar",
+              "state": {},
+              "icon": "calendar",
+              "title": "Daily note calendar"
+            }
+          }
+        ]
+      },
+      {
+        "id": "d8e48ef8d23a973b",
+        "type": "tabs",
+        "dimension": 18.680023571007663,
+        "children": [
+          {
+            "id": "320c2bf96a77bc09",
+            "type": "leaf",
+            "state": {
+              "type": "journal-calendar",
+              "state": {},
+              "icon": "calendar-days",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "aeeaea761c93b949",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Inbox/_SORTING/Alesis 3630 Compressor - Manual.pdf"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for Alesis 3630 Compressor - Manual"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 307.5
+  },
+  "right": {
+    "id": "7f91cc8e5669ed8d",
+    "type": "split",
+    "children": [
+      {
+        "id": "837194f303c49706",
+        "type": "tabs",
+        "dimension": 66.10716591349258,
+        "children": [
+          {
+            "id": "3cc56e6d83383f73",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Personal/Journal/Daily Notes/2026/2026-05-19.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "pinned": true,
+              "icon": "lucide-list",
+              "title": "Outline of 2026-05-19"
+            }
+          },
+          {
+            "id": "f5ba73309676a9d6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f455bd5c96b021d9",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "pinned": true,
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          }
+        ]
+      },
+      {
+        "id": "3e879064b827b217",
+        "type": "tabs",
+        "dimension": 33.89283408650742,
+        "children": [
+          {
+            "id": "725dc0a5e19f2e17",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "f24b7d81f1b118f2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Inbox/_SORTING/Alesis 3630 Compressor - Manual.pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Alesis 3630 Compressor - Manual"
+            }
+          },
+          {
+            "id": "fbbbd268c129a98f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Personal/Daily Notes/2026-06-03.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2026-06-03"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false,
+      "bases:Create new base": false,
+      "obsidian-kanban:Create new board": false,
+      "templater-obsidian:Templater": false,
+      "markdown-importer:Open format converter": false,
+      "audio-recorder:Start/stop recording": false,
+      "peerdraft:Show my Peerdraft Shares": false
+    }
+  },
+  "active": "5d35cd6715793d1c",
+  "lastOpenFiles": [
+    "Current Projects/Reviving or Restoring a MBP.pdf",
+    "House/House Invoices/Internet Bill/2025/Aussie Broadband Invoice 49344546.pdf",
+    "House/House Invoices/Internet Bill/2025/Aussie Broadband Invoice 47815580.pdf",
+    "House/House Invoices/Internet Bill/2024/Aussie Broadband Invoice 44816950.pdf",
+    "House/House Invoices/Internet Bill/2022/AussieBB - 11-11-2022.pdf",
+    "House/House Invoices/Internet Bill/2023/AussieBB - 24-02-2023.pdf",
+    "House/House Invoices/Internet Bill/2023/AussieBB 11-1-2023.pdf",
+    "House/House Invoices/Internet Bill/2024/Aussie BB - SEP24.pdf",
+    "House/House Invoices/Internet Bill/2024/Aussie BB - OCT24.pdf",
+    "House/House Invoices/Internet Bill/2024/Aussie BB - NOV24.pdf",
+    "House/House Invoices/Internet Bill/2024/Aussie BB - AUG24.pdf",
+    "Inbox/Habit Tracking _ New Process - Slab.md",
+    "Inbox/Jayden Healey.png",
+    "Inbox/Business _ Work Mindset - Slab.md",
+    "Personal/Journal/Daily Notes/2026/2026-06-10.md",
+    "SPAWN & SIGNAL/Notes/Fixing - Focusrite Scarlet 18i20 (USB Issue).md",
+    "Archive/Knowledge/Audio Tools/Hardware/Fixing Focusrite 18i20.md",
+    "House/House Work & Repairs/House Repairs & Issues - Electrical.md",
+    "Personal/Hobbies/Gaming/W40k Rogue Trader/MerelySiutsit EnhancedContal WASOMovement.png",
+    "Personal/Finances/ANZ Rewards Card Info.png",
+    "Personal/Finances/Consolidating Debt.md",
+    "Current Projects/Ableton Live 12 - Beta Testing/Ableton Live 12 Extensions (SDK).md",
+    "Personal/Health/ADHD/Consultation Notes/2025-05-16  EF ADHD.md",
+    "Current Projects/Organisation, Workflows & Setups/What is Airtable?.md",
+    "Current Projects/Organisation, Workflows & Setups/DIY Phone Locker (GetBrick Alternative).md",
+    "Current Projects/Organisation, Workflows & Setups/Digital Backup Protocol.md",
+    "Personal/Untitled.md",
+    "Studies/Archive/MUB203.1 - Project Overview.md",
+    "SPAWN & SIGNAL/Notes/SPAWN Audio - Business Statement.md",
+    "Inbox/_SORTING/Go Solo With Slack — no team required!.md",
+    "Inbox/_SORTING/Want to do more? Well then, focus on less. 7 ways to be more productive..md",
+    "Inbox/_SORTING/Taming your gremlin (imposter syndrome) as a PM.md",
+    "Inbox/_SORTING/Claude Code - Main Startup Window.png",
+    "Inbox/_SORTING/Custom Keyboard Shortcuts - macOS.md",
+    "Inbox/_SORTING/Deleting Invincible Files - macOS.md",
+    "Inbox/_SORTING/Full-time to freelance PM what I learnt about mindset.md",
+    "Inbox/_SORTING/Transferring Spotify - Apple Music.md",
+    "Inbox/_SORTING/Turn Your Audio Post Into a Product (Not a Service).md",
+    "Inbox/_SORTING/Using an iPhone as My Webcam.md",
+    "Archive/Collection/Recipes/Cooking & Meal Prep Ideas - 26Q2.md",
+    "Archive/Collection/Media/macOS Tahoe TimeMachine Network Drive Fix - Github.png",
+    "Archive/Collection/Media/Dropbox Backup Info.png",
+    "Inbox/_SORTING/Pasted image 20260501165216.png",
+    "Inbox/_SORTING/Pasted image 20260501165233.png",
+    "Inbox/_SORTING/Renderfocus - App Website.png",
+    "Archive/Collection/Media/XPT2046 Touch Controller.png"
+  ]
+}

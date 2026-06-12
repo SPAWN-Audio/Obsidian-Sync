@@ -1,0 +1,7 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      or:
+        - file.folder == "Archive/Collection/Recipes"
+        - file.folder == "Archive/Collection/Recipes/Slow Cooker"

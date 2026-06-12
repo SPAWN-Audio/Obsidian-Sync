@@ -1,0 +1,32 @@
+views:
+  - type: cards
+    name: Dashboard
+    filters:
+      and:
+        - file.inFolder("Current Projects/Deliberate Practise - Music")
+    groupBy:
+      property: Status
+      direction: DESC
+    order:
+      - file.name
+      - Status
+    cardSize: 240
+    imageAspectRatio: 0.3
+    image: note.Cover Image
+  - type: table
+    name: Dashboard - Table
+    filters:
+      and:
+        - file.inFolder("Current Projects/Deliberate Practise - Music")
+    groupBy:
+      property: Status
+      direction: ASC
+    order:
+      - file.name
+      - Status
+      - Date
+    cardSize: 260
+    imageAspectRatio: 0.4
+    image: note.Cover Image
+    columnSize:
+      file.name: 247

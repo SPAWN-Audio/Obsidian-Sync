@@ -1,0 +1,74 @@
+    public Transform respawnPoint;
+    public GameObject enemyPrefab;
+
+    public GameObject enemyInstance; // the reference for the instatiate. when pressing play it will reference in unity
+
+    public GameObject activeEnemyInstance;
+
+
+    public float enemyRespawnTime = 1.5f;
+    public float enemyCurrentTime;
+
+
+
+    //public bool death;
+    //public float timer;
+    //public float cooldown;
+
+    //public GameObject enemy;
+
+    // Start is called once before the first execution of Update after the MonoBehaviour is created
+    void Start()
+    {
+        enemyInstance = Instantiate(enemyPrefab, respawnPoint.position, Quaternion.identity); // The instantiate needs a reference. enemyInstance is the reference.
+        if (enemyInstance.GetComponent<EnemyScript>() != null)
+        {
+            //enemyInstance.GetComponent<EnemyScript>().AssignEnemyReference(this); // "this" is reference to this instance of the script.
+        }
+
+        RespawnEnemy(); // Run function to spawn in the enemy
+
+        enemyCurrentTime = enemyRespawnTime;
+
+    }
+
+    // Update is called once per frame
+    void Update()
+    {
+        
+        if (activeEnemyInstance != null)
+        {
+            if (Keyboard.current.spaceKey.wasPressedThisFrame)
+            {
+                if (activeEnemyInstance.GetComponent<EnemyScript>() != null)
+                {
+                   // activeEnemyInstance.GetComponent<EnemyScript>().ChangeHealth(-100);
+                }
+
+            }
+        }
+    }
+
+
+
+
+
+    public void RespawnEnemy()
+    {
+        enemyCurrentTime -= Time.deltaTime;
+
+        if (enemyCurrentTime <= 0)
+        {
+            if (enemyInstance != null)
+            {
+                enemyInstance.SetActive(true); // turning the enemy on
+
+                activeEnemyInstance = enemyInstance;
+
+                Debug.Log("sonethings wrong");
+           
+
+            }         
+        }
+    }
+}

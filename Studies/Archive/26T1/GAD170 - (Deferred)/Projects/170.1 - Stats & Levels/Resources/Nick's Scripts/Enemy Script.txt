@@ -1,0 +1,104 @@
+    //GameObject enemyReference;
+    public int enemyLevel;
+    public int enemyHealth;
+    public int enemyMaxHealth;
+    public int enemyAttackStat;
+
+    public UIManager uiManager;
+    public BattleHandler battleHandler;
+
+    public EnemyRespawn enemyRespawnReference; //assigning the Enemy Respawn script as a variable.
+
+
+    private void Start()
+    {
+        uiManager = FindFirstObjectByType<UIManager>();
+
+        battleHandler = GetComponent<BattleHandler>();
+
+
+
+        RegenerateEnemyStats();
+
+        //enemyRespawnReference = FindFirstObjectByType<EnemyRespawn>(); //search the scene for the scene
+    }
+
+    //public void AssignEnemyReference(EnemyRespawn spawner) // The function that passes in the Enemy Respawn script.
+    //{
+    //    enemyRespawnReference = spawner; // from there the enemy instance will now be referenced as the enenmySpawnerReference to be used in this script.
+
+    //public void ChangeHealth(float amount)
+    //{
+    //    enemyHealth += amount;
+
+    //    if (enemyHealth <= 0) // enemy is dead.
+    //    {
+    //        if (enemyRespawnReference != null)
+    //        {
+
+    //            Destroy(gameObject); // spawn in the next enemy  
+
+    //        }
+    //        enemyRespawnReference.RespawnEnemy();
+
+
+
+
+
+    // Update is called once per frame
+    void Update()
+    {
+
+    }
+
+    public void RegenerateEnemyStats()
+    {
+        int randomlevel = Random.Range(1, 5);
+        enemyLevel = randomlevel;
+
+        if (randomlevel == 1)
+        {
+            enemyHealth = 10;
+            enemyMaxHealth = 10;
+            enemyAttackStat = Random.Range(1, 4);
+        }
+        if (randomlevel == 2)
+        {
+            enemyHealth = 15;
+            enemyMaxHealth = 15;
+            enemyAttackStat = Random.Range(3, 6);
+        }
+        if (randomlevel == 3)
+        {
+            enemyHealth = 20;
+            enemyMaxHealth = 20;
+            enemyAttackStat = Random.Range(6, 10);
+        }
+        if (randomlevel == 4)
+        {
+            enemyHealth = 25;
+            enemyMaxHealth = 25;
+            enemyAttackStat = Random.Range(8, 12);
+        }
+
+    } // regenerates the enemies stats everytime it is called.
+
+    public void UpdateUi()
+    {
+        if (uiManager != null)
+        {
+            uiManager.SetEnemyLevel(enemyLevel);
+
+            uiManager.SetEnemyMaxHealth(enemyMaxHealth);
+            
+        }
+        if (battleHandler != null)
+        {
+            battleHandler.SetEnemyAttackStat(enemyAttackStat);
+        }
+        else
+        {
+            Debug.Log("You don't have a reference for the UI Manager.");
+        }
+    } 
+}

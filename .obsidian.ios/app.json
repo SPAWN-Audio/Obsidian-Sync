@@ -1,0 +1,20 @@
+{
+  "defaultViewMode": "preview",
+  "mobileToolbarCommands": [
+    "editor:undo",
+    "editor:redo",
+    "editor:indent-list",
+    "editor:unindent-list",
+    "editor:insert-link",
+    "editor:attach-file",
+    "editor:fold-all",
+    "editor:unfold-all"
+  ],
+  "openBehavior": "daily",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Inbox",
+  "attachmentFolderPath": "Inbox",
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": true,
+  "uriCallbacks": true
+}

@@ -1,0 +1,12 @@
+views:
+  - type: cards
+    name: Table
+    filters:
+      and:
+        - Type == "Blog"
+    order:
+      - file.name
+      - Type
+      - Date
+      - Complete
+      - tags

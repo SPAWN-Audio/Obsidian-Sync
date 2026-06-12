@@ -1,0 +1,104 @@
+    public CharacterHealth player;  // referencing the character health script.
+    public CharacterHealth enemy;
+
+    public int playerAttackDamage;
+    public int enemyAttackDamage;
+
+    public float enemyResponseDelay = 1.5f; // the delay before the enemy attacks.
+    public float enemyCurrentTime = 0; // current time player has been waiting.
+
+    public bool isPlayerTurn = true;
+
+    public AudioSource audioSource;
+    public AudioClip playerAttackSound;
+    public AudioClip enemyAttackSound;
+
+    // Start is called once before the first execution of Update after the MonoBehaviour is created
+    void Start()
+    {
+        audioSource = GetComponent<AudioSource>(); // search the game object that the script is attached for this component, and return the same type of script.
+
+        Debug.Log("Press [A] key to attack");
+    }
+
+    // Update is called once per frame
+    void Update()
+    {
+        if (player == null || enemy == null) // checking to see if the references are assigned in Unity.
+        {
+            Debug.Log("There is no player or enemy references");
+            return;
+        }
+
+        if (isPlayerTurn)
+        {   
+            PlayerTurn(); // calling the player turn function.
+        }
+        else 
+        {
+            EnemyTurn(); // calling the enemy turn function
+        }
+    }
+
+
+    private void PlayerTurn()
+    {
+        if (Keyboard.current.aKey.wasPressedThisFrame)
+        {
+            Debug.Log("Player attacked!");
+
+            if (enemy != null) // check to make sure there is a reference for the variable.
+            {
+                if (playerAttackSound != null && audioSource != null) // checking to make sure there is a reference for both the player attack sound and audio source.
+                {
+                    audioSource.PlayOneShot(playerAttackSound); // play it once and stops
+                }
+                
+                enemy.TakeDamage(playerAttackDamage); // pass in how much damage to deal to the TakeDamage function of the CharacterHealth script (which is referenced by the enemy variable).
+            }
+
+            // end your turn.
+
+            isPlayerTurn = false; // now is enemy's turn.
+
+            // start my countdown.
+            enemyCurrentTime = enemyResponseDelay; // reset the timer to the assigned time of the enemyResponseDelay variable.
+
+            Debug.Log("Enemy will attack in: " + enemyCurrentTime + "s");
+        }
+    }
+
+    private void EnemyTurn()
+    {
+        enemyCurrentTime -= Time.deltaTime; 
+
+        if (enemyCurrentTime <= 0)
+        {
+            Debug.Log("Enemy Turn " + enemy.characterName + " attacks!");
+
+            if (player != null) // referencing the player 
+            { 
+                if (enemyAttackSound != null && audioSource != null) // checking to make sure there is a reference for both the enemy attack sound and audio source.
+                {
+                    audioSource.PlayOneShot(enemyAttackSound); // play it once and stops
+                }
+            
+                player.TakeDamage(enemyAttackDamage);
+            }
+
+            isPlayerTurn = true; // now is player's turn.
+            Debug.Log("Player's turn. Press [A] key to attack");
+        }
+    }
+
+    public void SetPlayerAttackStat(int playerAttack)
+    {
+        playerAttackDamage = playerAttack;
+        Debug.Log("Player attack stat set.");
+    }
+    public void SetEnemyAttackStat(int enemyAttack)
+    {
+        enemyAttackDamage = enemyAttack;
+        Debug.Log("Player attack stat set.");
+    }
+}

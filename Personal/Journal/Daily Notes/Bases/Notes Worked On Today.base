@@ -1,0 +1,11 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.mtime.date() == today()
+        - file.ext.contains("md")
+    order:
+      - file.name
+      - tags
+      - Type

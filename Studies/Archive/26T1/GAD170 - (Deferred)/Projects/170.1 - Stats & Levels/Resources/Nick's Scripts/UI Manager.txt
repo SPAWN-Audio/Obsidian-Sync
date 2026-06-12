@@ -1,0 +1,83 @@
+    public string playerName = "Bool-Basaur";
+    public Slider playerHealth;    
+    public float playerMaxHealth;
+    public int playerLevel;
+
+    public string enemyName = "Wild Byte-Chu";
+    public Slider enemyHealth;
+    public int enemyMaxHealth;
+    public int enemyLevel;
+
+    public TextMeshProUGUI playerNameText;
+    public TextMeshProUGUI playerHealthText;
+    public TextMeshProUGUI playerLevelText;
+
+    public TextMeshProUGUI enemyNameText;
+    public TextMeshProUGUI enemyHealthText;
+    public TextMeshProUGUI enemyLevelText;
+
+    // Start is called once before the first execution of Update after the MonoBehaviour is created
+    void Start()
+    {
+        playerNameText.text = "" + playerName;
+        playerHealthText.text = "" + playerHealth;
+        playerLevelText.text = "" + playerLevel;
+
+        enemyNameText.text = "" + enemyName;
+        enemyHealthText.text = "" + enemyHealth;
+        enemyLevelText.text = "" + enemyLevel;
+
+
+    }
+
+    public void SetPlayerHealth(float playerhealthValue) // must be public so that you can access from other scripts
+    {
+        // the null check is checking that the player health has assigned a function. The function will not run if it's not assigned in unity.
+        // VERY IMPORTANT TO NULL CHECK!!! Could break code in other scripts!
+
+        if(playerHealth != null)
+        {
+        playerHealth.value = playerhealthValue; // setting the reference of player health to the value parameter in Unity.
+
+        //playerHealthText.text = "" + ReturnHealthAsPercentage() + "%";
+
+        }
+        else
+        {
+            Debug.Log("You haven't assigned a reference for the player health slider");
+        }
+        
+    }
+
+    public void SetPlayerMaxHealth(int playermaxHealthValue)
+    {
+        playerMaxHealth = playermaxHealthValue;
+        Debug.Log("Player Max Health Set");
+    }
+    public void SetPlayerLevel(int playerlevelValue)
+    {
+        playerLevel = playerlevelValue;
+        Debug.Log("Player Level Set");
+    }
+
+
+    public void SetEnemyHealth(float enemyhealthValue)
+    {
+        if (enemyHealth != null)
+        enemyHealth.value = enemyhealthValue;
+        else
+        {
+            Debug.Log("You haven't assigned a reference for the enemy health slider");
+        }
+    }
+    public void SetEnemyMaxHealth(int enemymaxHealthValue)
+    {
+        enemyMaxHealth = enemymaxHealthValue;
+        Debug.Log("Enemy max health set");
+    }
+
+    public void SetEnemyLevel(int enemylevelValue)
+    {
+        enemyLevel = enemylevelValue;
+        Debug.Log("Enemy level set");
+    }

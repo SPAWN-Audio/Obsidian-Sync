@@ -1,0 +1,2260 @@
+{
+  "customOrder": {
+    "/": {
+      "children": [
+        "Inbox",
+        "Current Projects",
+        "SPAWN & SIGNAL",
+        "Personal",
+        "Studies",
+        "House",
+        "Archive",
+        "🌐 Homepage.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Archive": {
+      "children": [
+        "Archive/Collection",
+        "Archive/Knowledge",
+        "Archive/Contacts",
+        "Archive/Shopping"
+      ],
+      "sortOrder": "custom"
+    },
+    "Archive/Collection": {
+      "children": [
+        "Archive/Collection/Recipes",
+        "Archive/Collection/Academic",
+        "Archive/Collection/Articles",
+        "Archive/Collection/Books",
+        "Archive/Collection/Manuals",
+        "Archive/Collection/Media",
+        "Archive/Collection/Templates",
+        "Archive/Collection/Scripts"
+      ],
+      "sortOrder": "custom"
+    },
+    "Archive/Collection/Academic": {
+      "children": [
+        "Archive/Collection/Academic/Arnold's 2024 Blueprint.pdf",
+        "Archive/Collection/Academic/Bullet Hell Sound Design Research.pdf",
+        "Archive/Collection/Academic/Bullet Hells and the Information Problem – Abstracting Games.pdf",
+        "Archive/Collection/Academic/Creativity and collaboration in creative industries.pdf",
+        "Archive/Collection/Academic/Player_Game_Interaction_Through_Affectiv.pdf",
+        "Archive/Collection/Academic/Sound and Immersion in the First Person Shooter.pdf",
+        "Archive/Collection/Academic/Study and Analysis of Collab Design Practices.pdf",
+        "Archive/Collection/Academic/The Role Sound Plays in Games.pdf"
+      ],
+      "sortOrder": "custom"
+    },
+    "Archive/Collection/Articles": {
+      "children": [
+        "Archive/Collection/Articles/Building Simple Contact Microphone - Zach Poff.pdf",
+        "Archive/Collection/Articles/Cyberpunk 2077 Mixing.pdf",
+        "Archive/Collection/Articles/Early Access Announcements - Skill Sound Design in Path of Exile 2 - Forum - Path of Exile.pdf",
+        "Archive/Collection/Articles/Electromagnetic Field Microphone 5 Steps - Instructables.pdf",
+        "Archive/Collection/Articles/Functions of Sound in Games.pdf",
+        "Archive/Collection/Articles/Game Audio 101_ What Developers Need to Know to Effectively Communicate with Their Audio Team.pdf",
+        "Archive/Collection/Articles/Game Audio Explained - Your Guide To Making Sound For Games _ A Sound Effect.pdf",
+        "Archive/Collection/Articles/Optimisation For Bullet Hell Games - Mikko Saari.pdf",
+        "Archive/Collection/Articles/PEC-The-Networked-Shift-A-Creative-Industries-Foresight-Study-v5.pdf",
+        "Archive/Collection/Articles/Punchy - Arduino MIDI Controller  9 Steps (with Pictures) - Instructables.pdf",
+        "Archive/Collection/Articles/Tenant Information Form.pdf",
+        "Archive/Collection/Articles/What is Project Charter_ Essential Guide with Examples and Free Resources - Teamcamp Blog.pdf",
+        "Archive/Collection/Articles/Game Sound Technology & Player Interaction.pdf",
+        "Archive/Collection/Articles/Sound & Immersion in FPS Games.pdf",
+        "Archive/Collection/Articles/The Role Sound Plays in Games.pdf"
+      ],
+      "sortOrder": "custom"
+    },
+    "Archive/Collection/Books": {
+      "children": [
+        "Archive/Collection/Books/Book Notes",
+        "Archive/Collection/Books/Basic Mastering - The Basic Series.pdf",
+        "Archive/Collection/Books/Body, Sound and Space in Music and Beyond.pdf",
+        "Archive/Collection/Books/Creative Hubs in Question- Place, Space and Work in the -- Rosalind Clair Gill_ Andy C Pratt_ Tarek E Virani -- Dynamics of Virtual Work, Dynamics of -- 9783030106522 -- 765c577950873a0ee6727399b3873d84 -- Anna’s Archive.pdf",
+        "Archive/Collection/Books/Creativity-at-Work-PDF.pdf",
+        "Archive/Collection/Books/Deep and Shallow - Machine Learning in Music and Audio -- Shlomo Dubnov, Ross Greer -- CRC Press (Unlimited), [S_l_], 2023 -- CRC Press LLC -- 9781000984477 -- ae7cb3ad3c5d0f5a391632af62f9d847 -- Anna’s Archive.pdf",
+        "Archive/Collection/Books/DirectX 9 audio exposed - interactive audio development -- Todd M_ Fay_ Scott Selfon_ Todor J_ Fay -- Jones & Bartlett Learning LLC, Plano, Tex, 2003 -- 9780585466606 -- 1818ce4c7315edd771650dd286a3af79 -- Anna’s Archive.pdf",
+        "Archive/Collection/Books/Emotion in Video Game Soundtracking.pdf",
+        "Archive/Collection/Books/Four thousand weeks - Oliver Burkeman.pdf",
+        "Archive/Collection/Books/Game Design Essentials -- Briar Lee Mitchell -- Serious skills, 1_, Auflage, New York, NY, 2012 -- Sybex -- 9781118159279 -- 70191306a88d12adf5a5df41fd201d97 -- Anna’s Archive.pdf",
+        "Archive/Collection/Books/Game Sound Technology and Player Interaction - Concepts and -- Mark Grimshaw, Mark Grimshaw -- Premier Reference Source, 1, 2010 -- Information -- 9781282898929 -- 7ad3d3fc6a82b4d9c0f5ad243492a651 -- Anna’s Archive.pdf",
+        "Archive/Collection/Books/Inner Sound - Altered States of Consciousness in Electronic.epub",
+        "Archive/Collection/Books/Optimizing for Bullet Hell Games.pdf",
+        "Archive/Collection/Books/Pathways into Creative Working Lives -- Stephanie Taylor (editor), Susan Luckman (editor) -- Creative Working Lives, Creative Working Lives, 1, 2020 -- 9783030382452 -- aba15a57ad9458c27375dde62e09fa3e -- Anna’s Archive.pdf"
+      ],
+      "sortOrder": "custom"
+    },
+    "Archive/Collection/Books/Book Notes": {
+      "children": [],
+      "sortOrder": "custom"
+    },
+    "Archive/Collection/Manuals": {
+      "children": [
+        "Archive/Collection/Manuals/Scarlett 18i20 3rdGen User Guide v3.pdf",
+        "Archive/Collection/Manuals/Alesis 3630 Compressor - Manual.pdf",
+        "Archive/Collection/Manuals/F8n Mixer Manual.pdf",
+        "Archive/Collection/Manuals/Soundly - Cheatsheet macOS.pdf",
+        "Archive/Collection/Manuals/XPT2046 Touch Controller - Manual.pdf"
+      ],
+      "sortOrder": "custom"
+    },
+    "Archive/Collection/Media": {
+      "children": [
+        "Archive/Collection/Media/Full Stack Workflow",
+        "Archive/Collection/Media/Jamo House Damages",
+        "Archive/Collection/Media/SAE",
+        "Archive/Collection/Media/SIGNAL",
+        "Archive/Collection/Media/Video",
+        "Archive/Collection/Media/Dropbox Backup Info.png",
+        "Archive/Collection/Media/macOS Tahoe TimeMachine Network Drive Fix - Github.png",
+        "Archive/Collection/Media/AU5 Post - Phase Distortion.png",
+        "Archive/Collection/Media/Niles Studio Architecture.png",
+        "Archive/Collection/Media/Niles Studio Furniture.png",
+        "Archive/Collection/Media/Meross Smart Lights Fix - Reddit.png",
+        "Archive/Collection/Media/Twenty CRM Workflow Best Practices.png",
+        "Archive/Collection/Media/Apple Notes - Fix Folder Bug.png",
+        "Archive/Collection/Media/Auto Pan-Tremolo.gif",
+        "Archive/Collection/Media/Boat Srilim - Contact.jpeg",
+        "Archive/Collection/Media/Charmander - Pokemon Unity Challenge.png",
+        "Archive/Collection/Media/DOT Call - 20-07-2024.m4a",
+        "Archive/Collection/Media/Film Sound PT Grouping Chart.jpeg",
+        "Archive/Collection/Media/GIK-Acoustics-Gotham-Skyline-Diffusor_2017-03.jpg",
+        "Archive/Collection/Media/Goals - Arnies Blueprint 2.png",
+        "Archive/Collection/Media/Goals - Arnold Blueprint 1.png",
+        "Archive/Collection/Media/iZotope Insight 2 - Install Instructions.png",
+        "Archive/Collection/Media/Max for Live Path.png",
+        "Archive/Collection/Media/NILES Studio Furniture 1.png",
+        "Archive/Collection/Media/NILES Studio Furniture 2.png",
+        "Archive/Collection/Media/NILES Studio Furniture 3.png",
+        "Archive/Collection/Media/Reason Rack & DAW Features.png",
+        "Archive/Collection/Media/SGH Rayban RB2203.png",
+        "Archive/Collection/Media/SGH Rayban RB4455F bio-based.png",
+        "Archive/Collection/Media/Tenant information form - highlight.png",
+        "Archive/Collection/Media/UGG Goldencoast Clog 2.png",
+        "Archive/Collection/Media/Wwise - Containers.png",
+        "Archive/Collection/Media/BLOOM",
+        "Archive/Collection/Media/Box Art",
+        "Archive/Collection/Media/Cover Images",
+        "Archive/Collection/Media/SPAWN",
+        "Archive/Collection/Media/Alma 3 Seater Brown Sofa with Ottoman.png",
+        "Archive/Collection/Media/basic kitchen - stock image.jpg",
+        "Archive/Collection/Media/Fantastic Furniture - Compressed Sofa Bed.png",
+        "Archive/Collection/Media/Field Notes - Setup 1.jpeg",
+        "Archive/Collection/Media/Field Notes - Setup 2.jpeg",
+        "Archive/Collection/Media/Field Notes - Setup 3.jpeg",
+        "Archive/Collection/Media/IMG_2996.png",
+        "Archive/Collection/Media/Nestra Sofa Bed.png",
+        "Archive/Collection/Media/Obsidian Bases - Games.png",
+        "Archive/Collection/Media/pendant light - modern basic.jpg",
+        "Archive/Collection/Media/Ray-Ban RB2203.png",
+        "Archive/Collection/Media/Steam Families - Summary.png",
+        "Archive/Collection/Media/TRT in Thailand - Discussion 1.png",
+        "Archive/Collection/Media/TRT in Thailand - Discussion 2.png",
+        "Archive/Collection/Media/TRT in Thailand - Discussion 3.png",
+        "Archive/Collection/Media/TRT in Thailand - Discussion 4.png",
+        "Archive/Collection/Media/TRT in Thailand - Discussion 5.png",
+        "Archive/Collection/Media/TRT in Thailand - Discussion 6.png",
+        "Archive/Collection/Media/Bloom's Taxonomy.png",
+        "Archive/Collection/Media/XPT2046 Touch Controller.png"
+      ],
+      "sortOrder": "custom"
+    },
+    "Archive/Collection/Media/BLOOM": {
+      "children": [
+        "Archive/Collection/Media/BLOOM/Bloom - Icon 1.png",
+        "Archive/Collection/Media/BLOOM/Bloom - Icon 2.png",
+        "Archive/Collection/Media/BLOOM/Bloom - Logo 1.png",
+        "Archive/Collection/Media/BLOOM/Bloom - Logo 2.png",
+        "Archive/Collection/Media/BLOOM/Bloom - Type 1.png",
+        "Archive/Collection/Media/BLOOM/Bloom - Type 2.png"
+      ],
+      "sortOrder": "custom"
+    },
+    "Archive/Collection/Media/Box Art": {
+      "children": [
+        "Archive/Collection/Media/Box Art/Baldurs Gate 3 Box Art.png",
+        "Archive/Collection/Media/Box Art/Bioshock 2 Box Art.jpg",
+        "Archive/Collection/Media/Box Art/Bioshock Box Art.jpg",
+        "Archive/Collection/Media/Box Art/Cyberpunk 2077 Box Art.jpg",
+        "Archive/Collection/Media/Box Art/Dark Souls 3 Box Art.jpg",
+        "Archive/Collection/Media/Box Art/Elden Ring Box Art.jpg",
+        "Archive/Collection/Media/Box Art/Resident Evil 2 Box Art.jpg",
+        "Archive/Collection/Media/Box Art/Resident Evil 3 Box Art.jpg",
+        "Archive/Collection/Media/Box Art/Resident Evil 4 Box Art.jpg",
+        "Archive/Collection/Media/Box Art/Resident Evil 7 Box Art.jpg",
+        "Archive/Collection/Media/Box Art/Resident Evil Village Box Art.jpg",
+        "Archive/Collection/Media/Box Art/Senior Box Art.jpg",
+        "Archive/Collection/Media/Box Art/System Shock 2 - Remaster Box Art.png",
+        "Archive/Collection/Media/Box Art/W40K Rogue Trader Box Art.jpg",
+        "Archive/Collection/Media/Box Art/Wasteland 2 Box Art.jpg",
+        "Archive/Collection/Media/Box Art/Wasteland 3 Box Art.jpg",
+        "Archive/Collection/Media/Box Art/XCOM 2 Box Art.jpg",
+        "Archive/Collection/Media/Box Art/XCOM Box Art.jpg"
+      ],
+      "sortOrder": "custom"
+    },
+    "Archive/Collection/Media/Cover Images": {
+      "children": [
+        "Archive/Collection/Media/Cover Images/writing notes - cover image.jpg"
+      ],
+      "sortOrder": "custom"
+    },
+    "Archive/Collection/Media/Full Stack Workflow": {
+      "children": [
+        "Archive/Collection/Media/Full Stack Workflow/Full Stack Workflow - 01.png",
+        "Archive/Collection/Media/Full Stack Workflow/Full Stack Workflow - 02.png",
+        "Archive/Collection/Media/Full Stack Workflow/Full Stack Workflow - 03.png",
+        "Archive/Collection/Media/Full Stack Workflow/Full Stack Workflow - 04.png",
+        "Archive/Collection/Media/Full Stack Workflow/Full Stack Workflow - 05.png",
+        "Archive/Collection/Media/Full Stack Workflow/Full Stack Workflow - 06.png",
+        "Archive/Collection/Media/Full Stack Workflow/Full Stack Workflow - 07.png",
+        "Archive/Collection/Media/Full Stack Workflow/Full Stack Workflow - 08.png"
+      ],
+      "sortOrder": "custom"
+    },
+    "Archive/Collection/Media/Jamo House Damages": {
+      "children": [
+        "Archive/Collection/Media/Jamo House Damages/Jamo House Damages 1.jpg",
+        "Archive/Collection/Media/Jamo House Damages/Jamo House Damages 2.jpg",
+        "Archive/Collection/Media/Jamo House Damages/Jamo House Damages 3.jpg",
+        "Archive/Collection/Media/Jamo House Damages/Jamo House Damages 4.jpg",
+        "Archive/Collection/Media/Jamo House Damages/Jamo House Damages 5.jpg",
+        "Archive/Collection/Media/Jamo House Damages/Jamo House Damages 6.jpg",
+        "Archive/Collection/Media/Jamo House Damages/Jamo House Damages 7.jpg",
+        "Archive/Collection/Media/Jamo House Damages/Jamo House Damages 8.jpg",
+        "Archive/Collection/Media/Jamo House Damages/Jamo House Damages 9.jpg",
+        "Archive/Collection/Media/Jamo House Damages/Jamo House Damages 10.jpg",
+        "Archive/Collection/Media/Jamo House Damages/Jamo House Damages 11.jpg",
+        "Archive/Collection/Media/Jamo House Damages/Jamo House Damages 12.jpg",
+        "Archive/Collection/Media/Jamo House Damages/Jamo House Damages 13.jpg",
+        "Archive/Collection/Media/Jamo House Damages/Jamo House Damages 14.jpg",
+        "Archive/Collection/Media/Jamo House Damages/Jamo House Damages 15.jpg",
+        "Archive/Collection/Media/Jamo House Damages/Jamo House Damages 16.jpg",
+        "Archive/Collection/Media/Jamo House Damages/Jamo House Damages 17.jpg",
+        "Archive/Collection/Media/Jamo House Damages/Jamo House Damages 18.jpg",
+        "Archive/Collection/Media/Jamo House Damages/Jamo House Damages 19.jpg",
+        "Archive/Collection/Media/Jamo House Damages/Jamo House Damages 20.jpg",
+        "Archive/Collection/Media/Jamo House Damages/Jamo House Damages 21.jpg",
+        "Archive/Collection/Media/Jamo House Damages/Jamo House Damages 22.jpg",
+        "Archive/Collection/Media/Jamo House Damages/Jamo House Damages 23.jpg",
+        "Archive/Collection/Media/Jamo House Damages/Jamo House Damages 24.jpg"
+      ],
+      "sortOrder": "custom"
+    },
+    "Archive/Collection/Media/SAE": {
+      "children": [
+        "Archive/Collection/Media/SAE/CIM301",
+        "Archive/Collection/Media/SAE/CIM310",
+        "Archive/Collection/Media/SAE/GAD170",
+        "Archive/Collection/Media/SAE/SAE-Git Banner.png"
+      ],
+      "sortOrder": "custom"
+    },
+    "Archive/Collection/Media/SAE/CIM301": {
+      "children": [
+        "Archive/Collection/Media/SAE/CIM301/CIM301 - Gibbs reflective practise model.png",
+        "Archive/Collection/Media/SAE/CIM301/CIM301 - Growth Mindset.png"
+      ],
+      "sortOrder": "custom"
+    },
+    "Archive/Collection/Media/SAE/CIM310": {
+      "children": [
+        "Archive/Collection/Media/SAE/CIM310/CIM310 - CV Tips 1.png",
+        "Archive/Collection/Media/SAE/CIM310/CIM310 - CV Tips 2.png"
+      ],
+      "sortOrder": "custom"
+    },
+    "Archive/Collection/Media/SAE/GAD170": {
+      "children": [
+        "Archive/Collection/Media/SAE/GAD170/GAD170 - Animation 1.png",
+        "Archive/Collection/Media/SAE/GAD170/GAD170 - Animation 2.png",
+        "Archive/Collection/Media/SAE/GAD170/GAD170 - Asset 1.png",
+        "Archive/Collection/Media/SAE/GAD170/GAD170 - Audio 1.png",
+        "Archive/Collection/Media/SAE/GAD170/GAD170 - Destroy 1.png",
+        "Archive/Collection/Media/SAE/GAD170/GAD170 - Destroy 2.png",
+        "Archive/Collection/Media/SAE/GAD170/GAD170 - Flowchart Example.png",
+        "Archive/Collection/Media/SAE/GAD170/GAD170 - Flowchart Example 2.png",
+        "Archive/Collection/Media/SAE/GAD170/GAD170 - Functions 1.png",
+        "Archive/Collection/Media/SAE/GAD170/GAD170 - Functions 2.png",
+        "Archive/Collection/Media/SAE/GAD170/GAD170 - Functions w Parameters 1.png",
+        "Archive/Collection/Media/SAE/GAD170/GAD170 - Functions w Parameters 2.png",
+        "Archive/Collection/Media/SAE/GAD170/GAD170 - if else 3.png",
+        "Archive/Collection/Media/SAE/GAD170/GAD170 - If, else 1.png",
+        "Archive/Collection/Media/SAE/GAD170/GAD170 - if, else 2.png",
+        "Archive/Collection/Media/SAE/GAD170/GAD170 - Input.png",
+        "Archive/Collection/Media/SAE/GAD170/GAD170 - Input 1.png",
+        "Archive/Collection/Media/SAE/GAD170/GAD170 - Input 2.png",
+        "Archive/Collection/Media/SAE/GAD170/GAD170 - Input 3.png",
+        "Archive/Collection/Media/SAE/GAD170/GAD170 - Instantiate 1.png",
+        "Archive/Collection/Media/SAE/GAD170/GAD170 - Instantiate 2.png",
+        "Archive/Collection/Media/SAE/GAD170/GAD170 - Instantiate 3.png",
+        "Archive/Collection/Media/SAE/GAD170/GAD170 - Logical Operators.png",
+        "Archive/Collection/Media/SAE/GAD170/GAD170 - Material 1.png",
+        "Archive/Collection/Media/SAE/GAD170/GAD170 - Object Bullet 1.png",
+        "Archive/Collection/Media/SAE/GAD170/GAD170 - Object Bullet 2.png",
+        "Archive/Collection/Media/SAE/GAD170/GAD170 - Object on off.png",
+        "Archive/Collection/Media/SAE/GAD170/GAD170 - Particle 2.png",
+        "Archive/Collection/Media/SAE/GAD170/GAD170 - Particle Sys 1.png",
+        "Archive/Collection/Media/SAE/GAD170/GAD170 - Reference 1.png",
+        "Archive/Collection/Media/SAE/GAD170/GAD170 - Reference 2.png",
+        "Archive/Collection/Media/SAE/GAD170/GAD170 - Reference 3.png",
+        "Archive/Collection/Media/SAE/GAD170/GAD170 - Reference 4.png",
+        "Archive/Collection/Media/SAE/GAD170/GAD170 - Return Functions 1.png",
+        "Archive/Collection/Media/SAE/GAD170/GAD170 - Return Functions 2.png",
+        "Archive/Collection/Media/SAE/GAD170/GAD170 - Return Functions 3.png",
+        "Archive/Collection/Media/SAE/GAD170/GAD170 - UI Buttons 1.png",
+        "Archive/Collection/Media/SAE/GAD170/GAD170 - UI Text 2.png",
+        "Archive/Collection/Media/SAE/GAD170/GAD170 - Unity Layout.png",
+        "Archive/Collection/Media/SAE/GAD170/GAD170 - Unreal Layout.png",
+        "Archive/Collection/Media/SAE/GAD170/GAD170 - Unreal Layout 2.png",
+        "Archive/Collection/Media/SAE/GAD170/GAD170 - Variable Casting 1.png",
+        "Archive/Collection/Media/SAE/GAD170/GAD170 - Variable Casting 2.png",
+        "Archive/Collection/Media/SAE/GAD170/GAD170 - W05 Clips.png",
+        "Archive/Collection/Media/SAE/GAD170/GAD170.1 - Flowchart Example.png",
+        "Archive/Collection/Media/SAE/GAD170/ReturnType FunctionName(Parameters).png",
+        "Archive/Collection/Media/SAE/GAD170/Squirtle - Pokemon Unity Challenge.png",
+        "Archive/Collection/Media/SAE/GAD170/Squirtle - Unity Challenge - Back.png",
+        "Archive/Collection/Media/SAE/GAD170/Squirtle - Unity Challenge - Front.png",
+        "Archive/Collection/Media/SAE/GAD170/Unity Layout - GAD170.png"
+      ],
+      "sortOrder": "custom"
+    },
+    "Archive/Collection/Media/SIGNAL": {
+      "children": [
+        "Archive/Collection/Media/SIGNAL/SIGNAL - Barrels Img.png",
+        "Archive/Collection/Media/SIGNAL/SIGNAL - Logo 1.png",
+        "Archive/Collection/Media/SIGNAL/SIGNAL - Type Blk 1.png",
+        "Archive/Collection/Media/SIGNAL/SIGNAL - Type Blk 2.png",
+        "Archive/Collection/Media/SIGNAL/SIGNAL - Type Main.png",
+        "Archive/Collection/Media/SIGNAL/SIGNAL - Type Whte 1.png"
+      ],
+      "sortOrder": "custom"
+    },
+    "Archive/Collection/Media/SPAWN": {
+      "children": [
+        "Archive/Collection/Media/SPAWN/CC Headshot 1.png",
+        "Archive/Collection/Media/SPAWN/CC Headshot 2.png",
+        "Archive/Collection/Media/SPAWN/SPAWN - Studio 1.png"
+      ],
+      "sortOrder": "custom"
+    },
+    "Archive/Collection/Media/Video": {
+      "children": [
+        "Archive/Collection/Media/Video/Contact Microphone Example.mp4",
+        "Archive/Collection/Media/Video/DIY Acoustic Panel Build - Instagram.mp4"
+      ],
+      "sortOrder": "custom"
+    },
+    "Archive/Collection/Recipes": {
+      "children": [
+        "Archive/Collection/Recipes/Slow Cooker",
+        "Archive/Collection/Recipes/Air-Fryer Pork Chops.pdf",
+        "Archive/Collection/Recipes/Beef Brisket Loaded Fries - Simple Home Edit.pdf",
+        "Archive/Collection/Recipes/Best Beef Stew Recipe.pdf",
+        "Archive/Collection/Recipes/Chicken Cutlets with Creamy Spinach & Roasted Red Pepper Sauce.pdf",
+        "Archive/Collection/Recipes/Easy Homemade Beef Stew - Healthy Fitness Meals.pdf",
+        "Archive/Collection/Recipes/Easy Shrimp Tacos.pdf",
+        "Archive/Collection/Recipes/Feta & Roasted Red Pepper Stuffed Chicken Breasts.pdf",
+        "Archive/Collection/Recipes/Loaded Chicken & Broccoli Salad.pdf",
+        "Archive/Collection/Recipes/Stuffed Sweet Potatoes with Chili .pdf",
+        "Archive/Collection/Recipes/Cooking & Meal Prep Ideas - 26Q2.md",
+        "Archive/Collection/Recipes/01_tuna_melts.pdf",
+        "Archive/Collection/Recipes/02_overnight_oats.pdf",
+        "Archive/Collection/Recipes/03_avo_toast.pdf",
+        "Archive/Collection/Recipes/04_peanut_butter_apple_banana.pdf",
+        "Archive/Collection/Recipes/05_sloppy_joes.pdf",
+        "Archive/Collection/Recipes/06_chicken_wraps.pdf",
+        "Archive/Collection/Recipes/07_potato_salad.pdf",
+        "Archive/Collection/Recipes/08_pesto_pasta_chicken.pdf",
+        "Archive/Collection/Recipes/09_broccoli_rice_chicken_casserole.pdf",
+        "Archive/Collection/Recipes/10_tomato_pasta.pdf",
+        "Archive/Collection/Recipes/11_green_curry.pdf",
+        "Archive/Collection/Recipes/12_potato_bake.pdf",
+        "Archive/Collection/Recipes/13_yoghurt_fruit_granola.pdf",
+        "Archive/Collection/Recipes/14_homemade_hash_browns.pdf",
+        "Archive/Collection/Recipes/15_loaded_chips.pdf"
+      ],
+      "sortOrder": "custom"
+    },
+    "Archive/Collection/Recipes/Slow Cooker": {
+      "children": [
+        "Archive/Collection/Recipes/Slow Cooker/Slow-cooked Beef Stroganoff Pot Pies - Simple Home Edit.pdf",
+        "Archive/Collection/Recipes/Slow Cooker/Slow-cooker Beef Ragu - Simple Home Edit.pdf",
+        "Archive/Collection/Recipes/Slow Cooker/Slow-cooker Beef Stew  - Simple Home Edit.pdf"
+      ],
+      "sortOrder": "custom"
+    },
+    "Archive/Collection/Scripts": {
+      "children": [
+        "Archive/Collection/Scripts/Templater Scripts"
+      ],
+      "sortOrder": "custom"
+    },
+    "Archive/Collection/Scripts/Templater Scripts": {
+      "children": [
+        "Archive/Collection/Scripts/Templater Scripts/Previous Written Daily Note.js"
+      ],
+      "sortOrder": "custom"
+    },
+    "Archive/Collection/Templates": {
+      "children": [
+        "Archive/Collection/Templates/CIM301 - Note Template.md",
+        "Archive/Collection/Templates/CIM310 - Note Template.md",
+        "Archive/Collection/Templates/Daily Note Template.md",
+        "Archive/Collection/Templates/GAD170 - Note Template.md",
+        "Archive/Collection/Templates/New Note Template.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Archive/Contacts": {
+      "children": [
+        "Archive/Contacts/Blade Schoen.md",
+        "Archive/Contacts/Boat Srilim.md",
+        "Archive/Contacts/Harry Sands.md",
+        "Archive/Contacts/Matt Keenan.md",
+        "Archive/Contacts/Nick Miller.md",
+        "Archive/Contacts/Sandra Matthews Ramsay.md",
+        "Archive/Contacts/Scott Montgomery.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Archive/Knowledge": {
+      "children": [
+        "Archive/Knowledge/AI Tools",
+        "Archive/Knowledge/Apple Notes",
+        "Archive/Knowledge/Audio Tools",
+        "Archive/Knowledge/Doom Emacs",
+        "Archive/Knowledge/Linear",
+        "Archive/Knowledge/macOS",
+        "Archive/Knowledge/Obsidian",
+        "Archive/Knowledge/Sound Design",
+        "Archive/Knowledge/Wiki Platforms",
+        "Archive/Knowledge/Apple Shortcuts",
+        "Archive/Knowledge/Apps",
+        "Archive/Knowledge/Film Sound",
+        "Archive/Knowledge/Notebook System",
+        "Archive/Knowledge/Workflow System",
+        "Archive/Knowledge/Media"
+      ],
+      "sortOrder": "custom"
+    },
+    "Archive/Knowledge/AI Tools": {
+      "children": [
+        "Archive/Knowledge/AI Tools/7 Open Source AI Tools - Fireship.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Archive/Knowledge/Apple Notes": {
+      "children": [
+        "Archive/Knowledge/Apple Notes/Fix the Apple Notes Folder Bug.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Archive/Knowledge/Apple Shortcuts": {
+      "children": [
+        "Archive/Knowledge/Apple Shortcuts/Auto Transaction Log - Apple Shortcuts.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Archive/Knowledge/Apps": {
+      "children": [
+        "Archive/Knowledge/Apps/Cool Apps to Checkout.md",
+        "Archive/Knowledge/Apps/Cool Pirate Software.md",
+        "Archive/Knowledge/Apps/Linear Mouse App.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Archive/Knowledge/Audio Tools": {
+      "children": [
+        "Archive/Knowledge/Audio Tools/Ableton",
+        "Archive/Knowledge/Audio Tools/Hardware",
+        "Archive/Knowledge/Audio Tools/Learn Bitwig",
+        "Archive/Knowledge/Audio Tools/Learn Logic Pro",
+        "Archive/Knowledge/Audio Tools/Learn Reaper",
+        "Archive/Knowledge/Audio Tools/Wwise",
+        "Archive/Knowledge/Audio Tools/iZotope - Insight 2 Install Errors.md",
+        "Archive/Knowledge/Audio Tools/Reason & Reason Rack.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Archive/Knowledge/Audio Tools/Ableton": {
+      "children": [
+        "Archive/Knowledge/Audio Tools/Ableton/Ableton & Outboard Gear.md",
+        "Archive/Knowledge/Audio Tools/Ableton/Ableton - (Hidden) Options.md",
+        "Archive/Knowledge/Audio Tools/Ableton/Ableton - Crash Resolution.md",
+        "Archive/Knowledge/Audio Tools/Ableton/Ableton - L12 Beta Notes.md",
+        "Archive/Knowledge/Audio Tools/Ableton/Ableton - Notes.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Archive/Knowledge/Audio Tools/Hardware": {
+      "children": [
+        "Archive/Knowledge/Audio Tools/Hardware/Fixing Focusrite 18i20.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Archive/Knowledge/Audio Tools/Learn Bitwig": {
+      "children": [
+        "Archive/Knowledge/Audio Tools/Learn Bitwig/Bitwig Resources.md",
+        "Archive/Knowledge/Audio Tools/Learn Bitwig/Customising Bitwig.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Archive/Knowledge/Audio Tools/Learn Logic Pro": {
+      "children": [
+        "Archive/Knowledge/Audio Tools/Learn Logic Pro/Logic Pro Resources.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Archive/Knowledge/Audio Tools/Learn Reaper": {
+      "children": [
+        "Archive/Knowledge/Audio Tools/Learn Reaper/Best Settings for Reaper.md",
+        "Archive/Knowledge/Audio Tools/Learn Reaper/Learning Reaper.md",
+        "Archive/Knowledge/Audio Tools/Learn Reaper/Reaper - Beginner Course.md",
+        "Archive/Knowledge/Audio Tools/Learn Reaper/Reaper - Learning Checklist.md",
+        "Archive/Knowledge/Audio Tools/Learn Reaper/Reaper Resources.md",
+        "Archive/Knowledge/Audio Tools/Learn Reaper/Reaper vs Pro Tools for Sound Design.md",
+        "Archive/Knowledge/Audio Tools/Learn Reaper/Why Reaper is taking over the Industry.md",
+        "Archive/Knowledge/Audio Tools/Learn Reaper/Why Reaper?.md",
+        "Archive/Knowledge/Audio Tools/Learn Reaper/How to Master in REAPER Turn Your Songs into Masterpieces! - Home Music Maker.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Archive/Knowledge/Audio Tools/Wwise": {
+      "children": [
+        "Archive/Knowledge/Audio Tools/Wwise/Wwise - Containers.md",
+        "Archive/Knowledge/Audio Tools/Wwise/Wwise - Resources.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Archive/Knowledge/Doom Emacs": {
+      "children": [
+        "Archive/Knowledge/Doom Emacs/Emacs & Oldschool Documentation.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Archive/Knowledge/Film Sound": {
+      "children": [
+        "Archive/Knowledge/Film Sound/Location Sound - Basic Checklist.pdf",
+        "Archive/Knowledge/Film Sound/Sound Report - Template v1.pdf"
+      ],
+      "sortOrder": "custom"
+    },
+    "Archive/Knowledge/Linear": {
+      "children": [
+        "Archive/Knowledge/Linear/Linear Process",
+        "Archive/Knowledge/Linear/Linear & Obsidian Integrations.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Archive/Knowledge/Linear/Linear Process": {
+      "children": [
+        "Archive/Knowledge/Linear/Linear Process/1. The Linear Process.md",
+        "Archive/Knowledge/Linear/Linear Process/Principles & Practices - Linear Process.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Archive/Knowledge/macOS": {
+      "children": [
+        "Archive/Knowledge/macOS/Reviving or Restoring a MBP.pdf",
+        "Archive/Knowledge/macOS/macOS Launch Agents, Daemons & Startup Items.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Archive/Knowledge/Media": {
+      "children": [
+        "Archive/Knowledge/Media/Fave Audiobook Narrators.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Archive/Knowledge/Notebook System": {
+      "children": [
+        "Archive/Knowledge/Notebook System/10 Ways Pocket Notebooks Replaced My Phone - Steven Foster.md",
+        "Archive/Knowledge/Notebook System/Hacks to Upgrade Your Field Notes - Nick Ovalle.md",
+        "Archive/Knowledge/Notebook System/How and Why I Love Using Pocket Notebooks - zoey abloom.md",
+        "Archive/Knowledge/Notebook System/How I Stay Organized with Just a Pocket Notebook - Carsonial.md",
+        "Archive/Knowledge/Notebook System/How I Use My Field Notes Notebook With My Bullet Journal - EZ Book Notes.md",
+        "Archive/Knowledge/Notebook System/How To Start Journaling When You Have No Idea What To Write - Zacc Rowlands.md",
+        "Archive/Knowledge/Notebook System/How to Start Pocket Journaling  A Simple Beginner Guide - Dream Publishing.md",
+        "Archive/Knowledge/Notebook System/I Built a Second Brain That Fits in My Pocket (and You Can Do It Too) - Nik Sol.md",
+        "Archive/Knowledge/Notebook System/Modding This $1 Notebook Like a Corvette - Lilla Björn Stationery.md",
+        "Archive/Knowledge/Notebook System/Modding This $1 Notebook Like a Corvette - Lilla Björn Stationery 1.md",
+        "Archive/Knowledge/Notebook System/My Entire Productivity System Fits in My Pocket (Steal It) - Nik Sol.md",
+        "Archive/Knowledge/Notebook System/My Hybrid Analog & Digital Notes System - Steven Foster.md",
+        "Archive/Knowledge/Notebook System/My Pocket Notebook Capture System 📖 - Rachelle in theory.md",
+        "Archive/Knowledge/Notebook System/Notebook Accessories - Shopping List.md",
+        "Archive/Knowledge/Notebook System/Notebook Setups.md",
+        "Archive/Knowledge/Notebook System/Notebooks - Resources.md",
+        "Archive/Knowledge/Notebook System/Pocket Notebook Habit Tracker using Field Notes - Tim 2.0.md",
+        "Archive/Knowledge/Notebook System/Pocket Notebook Planner Setup To CONQUER Your Week! - Carsonial.md",
+        "Archive/Knowledge/Notebook System/Pocket Notebooks.md",
+        "Archive/Knowledge/Notebook System/The Best Pocket Notebooks for Everyday Carry (Field Notes, Lochby & More!) - Planning Engineered.md",
+        "Archive/Knowledge/Notebook System/Three Simple Uses to Fill Your Pocket Notebook clips - Planning Engineered.md",
+        "Archive/Knowledge/Notebook System/Three Simple Uses to Fill Your Pocket Notebook clips - Planning Engineered 1.md",
+        "Archive/Knowledge/Notebook System/Using Pocket Journals the Right Way A Guide to Making Your Notes Work for You! - Nick Ovalle.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Archive/Knowledge/Obsidian": {
+      "children": [
+        "Archive/Knowledge/Obsidian/Obsidian Config Backups",
+        "Archive/Knowledge/Obsidian/Obsidian Daily Note Quick Links.md",
+        "Archive/Knowledge/Obsidian/Claude Code & Obsidian.md",
+        "Archive/Knowledge/Obsidian/Hack your Brain with Obsidian - NoBoilerplate.md",
+        "Archive/Knowledge/Obsidian/Interesting Obsidian Plugins.md",
+        "Archive/Knowledge/Obsidian/Linking Local Files & Folders - Obsidian.md",
+        "Archive/Knowledge/Obsidian/Obsidian - CSS Snippets.md",
+        "Archive/Knowledge/Obsidian/Obsidian For Learning - NoBoilerplate.md",
+        "Archive/Knowledge/Obsidian/Obsidian The Good Parts - NoBoilerplate.md",
+        "Archive/Knowledge/Obsidian/Obsidian to Hashnode.md",
+        "Archive/Knowledge/Obsidian/Obsidian - Local Folder Link.md",
+        "Archive/Knowledge/Obsidian/Obsidian Bases.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Archive/Knowledge/Obsidian/Obsidian Config Backups": {
+      "children": [
+        "Archive/Knowledge/Obsidian/Obsidian Config Backups/iOS Config.zip",
+        "Archive/Knowledge/Obsidian/Obsidian Config Backups/Main Config.zip"
+      ],
+      "sortOrder": "custom"
+    },
+    "Archive/Knowledge/Sound Design": {
+      "children": [
+        "Archive/Knowledge/Sound Design/Gun Sound Design.md",
+        "Archive/Knowledge/Sound Design/Misc Sound Design.md",
+        "Archive/Knowledge/Sound Design/Sci-Fi Sound Design.md",
+        "Archive/Knowledge/Sound Design/The VOX Sound Design System - Chris Moran.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Archive/Knowledge/Wiki Platforms": {
+      "children": [
+        "Archive/Knowledge/Wiki Platforms/Docmd",
+        "Archive/Knowledge/Wiki Platforms/Docusaurus",
+        "Archive/Knowledge/Wiki Platforms/Fumadocs"
+      ],
+      "sortOrder": "custom"
+    },
+    "Archive/Knowledge/Wiki Platforms/Docmd": {
+      "children": [
+        "Archive/Knowledge/Wiki Platforms/Docmd/DocMD - MD Site Generator.md",
+        "Archive/Knowledge/Wiki Platforms/Docmd/Docmd - Resources.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Archive/Knowledge/Wiki Platforms/Docusaurus": {
+      "children": [
+        "Archive/Knowledge/Wiki Platforms/Docusaurus/Docusaurus Themes.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Archive/Knowledge/Wiki Platforms/Fumadocs": {
+      "children": [
+        "Archive/Knowledge/Wiki Platforms/Fumadocs/Fumadocs Resources.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Archive/Knowledge/Workflow System": {
+      "children": [
+        "Archive/Knowledge/Workflow System/Full Stack Workflow System.md",
+        "Archive/Knowledge/Workflow System/Github Project Management.md",
+        "Archive/Knowledge/Workflow System/Linear Process.md",
+        "Archive/Knowledge/Workflow System/Plain Text Team - NoBoilerplate.md",
+        "Archive/Knowledge/Workflow System/Pocket Notebooks Second Brain.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Archive/Shopping": {
+      "children": [
+        "Archive/Shopping/Apparel",
+        "Archive/Shopping/House",
+        "Archive/Shopping/Studio",
+        "Archive/Shopping/Technology"
+      ],
+      "sortOrder": "custom"
+    },
+    "Archive/Shopping/Apparel": {
+      "children": [
+        "Archive/Shopping/Apparel/FBB Tee's - Shopping.md",
+        "Archive/Shopping/Apparel/Rayban - RB2203.md",
+        "Archive/Shopping/Apparel/Rayban - RB4455F.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Archive/Shopping/House": {
+      "children": [
+        "Archive/Shopping/House/Alma 3 Seater Brown Sofa with Ottoman.md",
+        "Archive/Shopping/House/Forster 3 Seater Beige Multi Functional Compressed Sofa Bed.md",
+        "Archive/Shopping/House/House & Studio Lighting - Shopping.md",
+        "Archive/Shopping/House/Kitchen Upgrades - Shopping.md",
+        "Archive/Shopping/House/Nestra Sofa Bed.md",
+        "Archive/Shopping/House/Stick-On Wall Tiles.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Archive/Shopping/Studio": {
+      "children": [
+        "Archive/Shopping/Studio/Niles Studio Furniture.md",
+        "Archive/Shopping/Studio/Studio Gear - Shopping.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Archive/Shopping/Technology": {
+      "children": [
+        "Archive/Shopping/Technology/New Keyboards - Shopping.md",
+        "Archive/Shopping/Technology/Sidephone - Dumb Phone.md",
+        "Archive/Shopping/Technology/Tech Accessories & Gadgets - Shopping.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Current Projects": {
+      "children": [
+        "Current Projects/Organisation, Workflows & Setups",
+        "Current Projects/Ableton Live 12 - Beta Testing",
+        "Current Projects/Obsidian Bases",
+        "Current Projects/Reviving or Restoring a MBP.pdf"
+      ],
+      "sortOrder": "custom"
+    },
+    "Current Projects/Ableton Live 12 - Beta Testing": {
+      "children": [
+        "Current Projects/Ableton Live 12 - Beta Testing/Ableton Live 12 Extensions (SDK).md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Current Projects/Obsidian Bases": {
+      "children": [
+        "Current Projects/Obsidian Bases/Games List.base",
+        "Current Projects/Obsidian Bases/Recipe Book.base",
+        "Current Projects/Obsidian Bases/Shopping Base.base"
+      ],
+      "sortOrder": "custom"
+    },
+    "Current Projects/Organisation, Workflows & Setups": {
+      "children": [
+        "Current Projects/Organisation, Workflows & Setups/Digital Backup Protocol.md",
+        "Current Projects/Organisation, Workflows & Setups/DIY Phone Locker (GetBrick Alternative).md",
+        "Current Projects/Organisation, Workflows & Setups/Dropbox - learning the tools & services.md",
+        "Current Projects/Organisation, Workflows & Setups/Installing New VST's - Q326.md",
+        "Current Projects/Organisation, Workflows & Setups/Obsidian - Live Collaborating.md",
+        "Current Projects/Organisation, Workflows & Setups/Organising My Live Library.pdf",
+        "Current Projects/Organisation, Workflows & Setups/Personal Organisation & Workflows.md",
+        "Current Projects/Organisation, Workflows & Setups/Time Machine - Remote Drive Issues.md",
+        "Current Projects/Organisation, Workflows & Setups/What is Airtable?.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "House": {
+      "children": [
+        "House/Documents",
+        "House/Homelab",
+        "House/House Invoices",
+        "House/House Work & Repairs",
+        "House/Notes"
+      ],
+      "sortOrder": "custom"
+    },
+    "House/Documents": {
+      "children": [
+        "House/Documents/House Plans",
+        "House/Documents/Archived House Notes 2024.pdf",
+        "House/Documents/D&J Rent Termination.pdf",
+        "House/Documents/Jamo Eviction Notice.md",
+        "House/Documents/Jamo House Damages.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "House/Documents/House Plans": {
+      "children": [
+        "House/Documents/House Plans/Old House Plans - 01.png",
+        "House/Documents/House Plans/Old House Plans - 02.png",
+        "House/Documents/House Plans/Old House Plans - 04.png",
+        "House/Documents/House Plans/Old House Plans - 05.png"
+      ],
+      "sortOrder": "custom"
+    },
+    "House/Homelab": {
+      "children": [
+        "House/Homelab/Homelab Notes & Resources.md",
+        "House/Homelab/Twenty CRM - Workflow Automations.md",
+        "House/Homelab/ARLEC Smart Plug Re-Purposing.md",
+        "House/Homelab/n8n Automations.md",
+        "House/Homelab/Audiobooks - Homelab.md",
+        "House/Homelab/Documents - Homelab.md",
+        "House/Homelab/Homelab Setup.md",
+        "House/Homelab/LCD Touchscreen Case - Raspberry Pi.md",
+        "House/Homelab/ProxBox - Setting up Homelab Servers.md",
+        "House/Homelab/xpt2046-datasheet.pdf"
+      ],
+      "sortOrder": "custom"
+    },
+    "House/House Invoices": {
+      "children": [
+        "House/House Invoices/Electric Bill",
+        "House/House Invoices/Gas Bill",
+        "House/House Invoices/Internet Bill",
+        "House/House Invoices/Misc Bills"
+      ],
+      "sortOrder": "custom"
+    },
+    "House/House Invoices/Electric Bill": {
+      "children": [
+        "House/House Invoices/Electric Bill/2022",
+        "House/House Invoices/Electric Bill/2023",
+        "House/House Invoices/Electric Bill/2024",
+        "House/House Invoices/Electric Bill/2025"
+      ],
+      "sortOrder": "custom"
+    },
+    "House/House Invoices/Electric Bill/2022": {
+      "children": [
+        "House/House Invoices/Electric Bill/2022/SynergyBill - 13-09-2022.pdf",
+        "House/House Invoices/Electric Bill/2022/SynergyBill - 15-03-2022.pdf",
+        "House/House Invoices/Electric Bill/2022/SynergyBill - 15-07-2022.pdf",
+        "House/House Invoices/Electric Bill/2022/SynergyBill - 17-05-2022.pdf",
+        "House/House Invoices/Electric Bill/2022/SynergyBill - 12-01-2022.pdf"
+      ],
+      "sortOrder": "custom"
+    },
+    "House/House Invoices/Electric Bill/2023": {
+      "children": [
+        "House/House Invoices/Electric Bill/2023/SynergyBill - 13-01-2023.pdf"
+      ],
+      "sortOrder": "custom"
+    },
+    "House/House Invoices/Electric Bill/2024": {
+      "children": [
+        "House/House Invoices/Electric Bill/2024/SynergyBill - JUL24.pdf",
+        "House/House Invoices/Electric Bill/2024/SynergyBill_20240521_Account_000123318800_014217.pdf",
+        "House/House Invoices/Electric Bill/2024/Synergy - SEP24.pdf"
+      ],
+      "sortOrder": "custom"
+    },
+    "House/House Invoices/Electric Bill/2025": {
+      "children": [
+        "House/House Invoices/Electric Bill/2025/SynergyBill_20250117_Account_000123318800_013766.pdf",
+        "House/House Invoices/Electric Bill/2025/SynergyBill_20250320_Account_000123318800_014720.pdf",
+        "House/House Invoices/Electric Bill/2025/SynergyBill_20250918_Account_000123318800_012718.pdf"
+      ],
+      "sortOrder": "custom"
+    },
+    "House/House Invoices/Gas Bill": {
+      "children": [
+        "House/House Invoices/Gas Bill/2024"
+      ],
+      "sortOrder": "custom"
+    },
+    "House/House Invoices/Gas Bill/2024": {
+      "children": [],
+      "sortOrder": "custom"
+    },
+    "House/House Invoices/Internet Bill": {
+      "children": [
+        "House/House Invoices/Internet Bill/2022",
+        "House/House Invoices/Internet Bill/2023",
+        "House/House Invoices/Internet Bill/2024",
+        "House/House Invoices/Internet Bill/2025"
+      ],
+      "sortOrder": "custom"
+    },
+    "House/House Invoices/Internet Bill/2022": {
+      "children": [
+        "House/House Invoices/Internet Bill/2022/AussieBB - 11-07-2022.pdf",
+        "House/House Invoices/Internet Bill/2022/AussieBB - 11-08-2022.pdf",
+        "House/House Invoices/Internet Bill/2022/AussieBB - 11-09-2022.pdf",
+        "House/House Invoices/Internet Bill/2022/AussieBB - 11-10-2022.pdf",
+        "House/House Invoices/Internet Bill/2022/AussieBB - 11-11-2022.pdf",
+        "House/House Invoices/Internet Bill/2022/AussieBB 11-12-2022.pdf"
+      ],
+      "sortOrder": "custom"
+    },
+    "House/House Invoices/Internet Bill/2023": {
+      "children": [
+        "House/House Invoices/Internet Bill/2023/AussieBB - 24-02-2023.pdf",
+        "House/House Invoices/Internet Bill/2023/AussieBB 11-1-2023.pdf"
+      ],
+      "sortOrder": "custom"
+    },
+    "House/House Invoices/Internet Bill/2024": {
+      "children": [
+        "House/House Invoices/Internet Bill/2024/Aussie BB - AUG24.pdf",
+        "House/House Invoices/Internet Bill/2024/Aussie BB - NOV24.pdf",
+        "House/House Invoices/Internet Bill/2024/Aussie BB - OCT24.pdf",
+        "House/House Invoices/Internet Bill/2024/Aussie BB - SEP24.pdf",
+        "House/House Invoices/Internet Bill/2024/Aussie Broadband Invoice 44816950.pdf"
+      ],
+      "sortOrder": "custom"
+    },
+    "House/House Invoices/Internet Bill/2025": {
+      "children": [
+        "House/House Invoices/Internet Bill/2025/2025.01.11 - Aussie BB.pdf",
+        "House/House Invoices/Internet Bill/2025/Aussie BB - AUG 25.pdf",
+        "House/House Invoices/Internet Bill/2025/Aussie BB - FEB 25.pdf",
+        "House/House Invoices/Internet Bill/2025/Aussie BB - MAY 25.pdf",
+        "House/House Invoices/Internet Bill/2025/Aussie Broadband Invoice 47815580.pdf",
+        "House/House Invoices/Internet Bill/2025/Aussie Broadband Invoice 49344546.pdf"
+      ],
+      "sortOrder": "custom"
+    },
+    "House/House Invoices/Misc Bills": {
+      "children": [],
+      "sortOrder": "custom"
+    },
+    "House/House Work & Repairs": {
+      "children": [
+        "House/House Work & Repairs/Schlage Encode Wifi Doorbell Issue",
+        "House/House Work & Repairs/Replacement Wall Switch (Roller Shutter).md",
+        "House/House Work & Repairs/Fix 'Water Hammer' - House.md",
+        "House/House Work & Repairs/House Repairs & Issues - Electrical.md",
+        "House/House Work & Repairs/Wiring Smart Doorbell.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "House/House Work & Repairs/Schlage Encode Wifi Doorbell Issue": {
+      "children": [
+        "House/House Work & Repairs/Schlage Encode Wifi Doorbell Issue/FCC-IC Statement 2021 - Schlage.pdf",
+        "House/House Work & Repairs/Schlage Encode Wifi Doorbell Issue/Residential Warranty - Schlage.pdf",
+        "House/House Work & Repairs/Schlage Encode Wifi Doorbell Issue/Schlage Encode - Mitre 10 - Order Confirmed Email.pdf",
+        "House/House Work & Repairs/Schlage Encode Wifi Doorbell Issue/Wifi Deadbolt 01 - Schlage.png",
+        "House/House Work & Repairs/Schlage Encode Wifi Doorbell Issue/Wifi Deadbolt 02 - Schlage.png",
+        "House/House Work & Repairs/Schlage Encode Wifi Doorbell Issue/Wifi Deadbolt 03 - Schlage.png",
+        "House/House Work & Repairs/Schlage Encode Wifi Doorbell Issue/Re Encode Wifi Deadbolt  Dead on arrival.pdf",
+        "House/House Work & Repairs/Schlage Encode Wifi Doorbell Issue/Schlage Wifi Deadbolt - Tax Invoice.pdf",
+        "House/House Work & Repairs/Schlage Encode Wifi Doorbell Issue/Shlage Smart Lock - Info & Codes.pdf"
+      ],
+      "sortOrder": "custom"
+    },
+    "House/Notes": {
+      "children": [
+        "House/Notes/🏠 2025 | House Updates.pdf",
+        "House/Notes/💵 2025 | Rent Changes.pdf"
+      ],
+      "sortOrder": "custom"
+    },
+    "Inbox": {
+      "children": [
+        "Inbox/Beginners Guide to Digital Asset Management.pdf",
+        "Inbox/Build Your Own Max For Live Devices: A Beginner's Guide.pdf",
+        "Inbox/Business _ Work Mindset - Slab.md",
+        "Inbox/CBA - Business Acc Welcome Letter.pdf",
+        "Inbox/Comet Manual.pdf",
+        "Inbox/Creative Market Receipt (#136392421).pdf",
+        "Inbox/Crush+User+Guide.pdf",
+        "Inbox/DIY Acoustic Panels : 11 Steps (with Pictures) - Instructables.pdf",
+        "Inbox/DIY RELEASING MUSIC HANDBOOK.pdf",
+        "Inbox/DJ Equipment Hire Agreement | TLSA.pdf",
+        "Inbox/Dodge Pro Manual.pdf",
+        "Inbox/DS-10 Drum Shaper Manual.pdf",
+        "Inbox/DVS_P_Vehicle_Renewal_Direct_Debit_Request_Agreement.pdf",
+        "Inbox/Easiest DIY Acoustic Panels Under $20 | FixThisBuildThat.pdf",
+        "Inbox/Filterverse Manual.pdf",
+        "Inbox/Filtron Manual.pdf",
+        "Inbox/FORMAT PORTFOLIO OFFER FOR STUDENTS.docx.pdf",
+        "Inbox/FreeAMP manual.pdf",
+        "Inbox/Gatekeeper Manual.pdf",
+        "Inbox/Gemini - Deep Research.pdf",
+        "Inbox/Gemini - Deep Research.rtf",
+        "Inbox/gemini_for_workspace_prompt_guide_october_2024_digital_final.pdf",
+        "Inbox/Goal-Setting Theory: Why It’s Important, and How to Use It at Work.pdf",
+        "Inbox/google_workspace_ai_powered_collab_for_organizations_of_all_sizes.pdf",
+        "Inbox/google_workspace_notebooklm_ebook.pdf",
+        "Inbox/gws_gemini_advanced_one_ebook.pdf",
+        "Inbox/Habit Tracking _ New Process - Slab.md",
+        "Inbox/How I Organise My Ableton Library + Free Ableton Pack - KILLSTARR.pdf",
+        "Inbox/I Wish - Manual.pdf",
+        "Inbox/Jayden Healey.png",
+        "Inbox/Kleenheat - SEP-DEC 2024.pdf",
+        "Inbox/KLU - Read Me!.rtf",
+        "Inbox/Kontakt Library Utility (KLU) V2.pdf",
+        "Inbox/live12-manual-en 2.pdf",
+        "Inbox/live12-manual-en.pdf",
+        "Inbox/Making It Happen - How to Create a Sustainable Career in the -- Hannah Trigwell 2024.pdf",
+        "Inbox/Malware - Ch2 Persistence.pdf",
+        "Inbox/Manipulator Manual.pdf",
+        "Inbox/Mingsian R. Bai, Jeong_Guon Ih, Jacob Benesty(auth.) - Acoustic Array Systems_ Theory, Implementation, and Application.pdf",
+        "Inbox/MIXING-DRUMS-CHEAT-SHEET.pdf",
+        "Inbox/Music Career Launch and Growth Plan.pdf",
+        "Inbox/Music Marketing Trends - Breakdown.pdf",
+        "Inbox/MUSIC PRODUCTION • TEACHING AGREEMENT.pdf",
+        "Inbox/NuPhy_Air60_V2_Quick_Guide.pdf",
+        "Inbox/Personal — 15 Ideas for Covering & Enhancing Interior Brick Walls | Houzz AU.pdf",
+        "Inbox/Personal — Exposing a Brick Wall in Your House — The OTTO HOUSE.pdf",
+        "Inbox/Personal — How to Paint Ikea Furniture - The Crafted Life.pdf",
+        "Inbox/Personal — How to Remove Paint from Brick | Five Star Painting.pdf",
+        "Inbox/plumbing invoice 176 orrong road Lthlain.pdf",
+        "Inbox/pmi-pulse-of-the-profession-2023-report.pdf",
+        "Inbox/PRO TOOLS FUNDAMENTALS II (PT110) -- Frank D_ Cook -- PT110, 2020-2021 -- Avid Technology Incorporated -- 9781943446858 -- 1e0a597b5390ff5ab8008826fca8b843 -- Anna’s Archive.pdf",
+        "Inbox/ProducerContractFactSheet_web.pdf",
+        "Inbox/Rule of 2 • Shoot Day Sound Equipment Scratch List.pdf",
+        "Inbox/Rule Tec Collection - User Manual & Licensing Agreement.pdf",
+        "Inbox/Rule Tec Collection Manual.pdf",
+        "Inbox/SM_IdleHands_Presentation_V1_1699325327599_0.pdf",
+        "Inbox/SOA IF16aBN_113184101245.PDF",
+        "Inbox/SpaceBlender ReadMe.rtf",
+        "Inbox/Stereo Microphone Techniques.pdf",
+        "Inbox/Supermodal Manual.pdf",
+        "Inbox/The Ableton Workflow Bible -- Connor O'Brien -- fd7dd60e025c0ab0cf696a907ba1a63c -- Anna’s Archive.pdf",
+        "Inbox/The Music Producer's Creative Guide to Ableton Live 11 - -- Lakatos, Anna -- Packt Publishing, Birmingham, 2023 -- Packt Publishing, Limited -- 9781801817639 -- 7a8255a5dd32dcf567688f8cf1449541 -- Anna’s Archive.pdf",
+        "Inbox/TLSA - ASIC Welcom Letter.pdf",
+        "Inbox/TLSA • Record of Business Name.PDF",
+        "Inbox/TLSA ABN Info.pdf",
+        "Inbox/TLSALearn • Thiago Pereira MPT000001.pdf",
+        "Inbox/TLSALearn • Thiago Pereira MPT000002.pdf",
+        "Inbox/Tokyo Cyberpunk - Posthumanism in Japanese Visual Culture -- Brown, Steven T_; -- Springer Nature, New York, 2010 -- [distributor] Macmillan -- 9780230103597 -- a8213c24717b2cf17fd78afd32dffaf4 -- Anna’s Archive.pdf",
+        "Inbox/Using Grooves — Ableton Reference Manual Version 12 | Ableton.pdf",
+        "Inbox/Water Filter Invoice - IN000433.pdf",
+        "Inbox/Wider Manual.pdf"
+      ],
+      "sortOrder": "custom"
+    },
+    "Personal": {
+      "children": [
+        "Personal/Goals",
+        "Personal/Journal",
+        "Personal/Documents",
+        "Personal/Finances",
+        "Personal/Hobbies",
+        "Personal/Health",
+        "Personal/Fruffy",
+        "Personal/Daily Notes",
+        "Personal/Notes"
+      ],
+      "sortOrder": "custom"
+    },
+    "Personal/Daily Notes": {
+      "children": [
+        "Personal/Daily Notes/2026-06-04.md",
+        "Personal/Daily Notes/2026-06-06.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Personal/Documents": {
+      "children": [
+        "Personal/Documents/Car & License",
+        "Personal/Documents/Mums Will"
+      ],
+      "sortOrder": "custom"
+    },
+    "Personal/Documents/Car & License": {
+      "children": [
+        "Personal/Documents/Car & License/License Suspension Issues.md",
+        "Personal/Documents/Car & License/Mazda 2 - Vehicle Inspection - 2025.pdf"
+      ],
+      "sortOrder": "custom"
+    },
+    "Personal/Documents/Mums Will": {
+      "children": [
+        "Personal/Documents/Mums Will/IMG_3107.jpg",
+        "Personal/Documents/Mums Will/Scanned Document.pdf",
+        "Personal/Documents/Mums Will/Scanned Document copy.pdf"
+      ],
+      "sortOrder": "custom"
+    },
+    "Personal/Finances": {
+      "children": [
+        "Personal/Finances/Personal Budget - W24.md",
+        "Personal/Finances/Consolidating Debt.md",
+        "Personal/Finances/American Express Low Rate Card.pdf",
+        "Personal/Finances/ANZ Rewards Card Info.png",
+        "Personal/Finances/Centrelink Finance Issue.pdf",
+        "Personal/Finances/Centrelink Info  AuStudy.pdf"
+      ],
+      "sortOrder": "custom"
+    },
+    "Personal/Fruffy": {
+      "children": [
+        "Personal/Fruffy/Cat Anxiety - How to identify & reduce your cat's stress.md",
+        "Personal/Fruffy/Fruffy & Cat - Random Resources.md",
+        "Personal/Fruffy/Is my Cat in pain? Common Signs.md",
+        "Personal/Fruffy/Stop your Cat Soiling the House.md",
+        "Personal/Fruffy/What does normal cat urine look like?.md",
+        "Personal/Fruffy/What's the Best Cat Litter?.md",
+        "Personal/Fruffy/Why is my Cat not using their Litter Tray?.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Personal/Goals": {
+      "children": [
+        "Personal/Goals/Financial Goals",
+        "Personal/Goals/Health Goals",
+        "Personal/Goals/Personal Goals",
+        "Personal/Goals/Social Goals",
+        "Personal/Goals/2026 - Goals MAP.md",
+        "Personal/Goals/Goals - Horizons of Focus.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Personal/Goals/Financial Goals": {
+      "children": [
+        "Personal/Goals/Financial Goals/2026 - Build a Basic Budget.md",
+        "Personal/Goals/Financial Goals/2026 - Create Debt Repayment Plan.md",
+        "Personal/Goals/Financial Goals/2026 - Face the (Financial) Music.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Personal/Goals/Health Goals": {
+      "children": [
+        "Personal/Goals/Health Goals/2026 - Fix Sleep Routine.md",
+        "Personal/Goals/Health Goals/2026 - Quit Smoking & Vaping.md",
+        "Personal/Goals/Health Goals/2026 - Return to Bodybuilding.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Personal/Goals/Personal Goals": {
+      "children": [
+        "Personal/Goals/Personal Goals/2026 - Flexible Morning Habit.md",
+        "Personal/Goals/Personal Goals/2026 - Minimal Planning System.md",
+        "Personal/Goals/Personal Goals/2026 - Swap Draining Habits.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Personal/Goals/Social Goals": {
+      "children": [
+        "Personal/Goals/Social Goals/2026 - Build Consistent Social Routine.md",
+        "Personal/Goals/Social Goals/2026 - Get out of the House Regularly.md",
+        "Personal/Goals/Social Goals/2026 - Rebuild Existing Connections.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Personal/Health": {
+      "children": [
+        "Personal/Health/ADHD",
+        "Personal/Health/Records",
+        "Personal/Health/Gym",
+        "Personal/Health/Notes",
+        "Personal/Health/Social",
+        "Personal/Health/Therapy"
+      ],
+      "sortOrder": "custom"
+    },
+    "Personal/Health/ADHD": {
+      "children": [
+        "Personal/Health/ADHD/Documents",
+        "Personal/Health/ADHD/Consultation Notes",
+        "Personal/Health/ADHD/ADHD Meds in Thailand.md",
+        "Personal/Health/ADHD/ADHD Resources.md",
+        "Personal/Health/ADHD/Level Up - 2026.md",
+        "Personal/Health/ADHD/Time Blocking for ADHD.md",
+        "Personal/Health/ADHD/Chemist Cancelled My Script?.md",
+        "Personal/Health/ADHD/2025-05-16  EF ADHD.pdf"
+      ],
+      "sortOrder": "custom"
+    },
+    "Personal/Health/ADHD/Consultation Notes": {
+      "children": [
+        "Personal/Health/ADHD/Consultation Notes/2025-05-16  EF ADHD.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Personal/Health/ADHD/Documents": {
+      "children": [
+        "Personal/Health/ADHD/Documents/EF - ADHD Med Reccommendations.pdf",
+        "Personal/Health/ADHD/Documents/EF - ADHD Med Reccommendations 2.pdf",
+        "Personal/Health/ADHD/Documents/EliteFocus ADHD - Letter of Proof.pdf",
+        "Personal/Health/ADHD/Documents/Med Reccomendations 16.05.2025 - Elitefocus ADHD.pdf"
+      ],
+      "sortOrder": "custom"
+    },
+    "Personal/Health/Gym": {
+      "children": [
+        "Personal/Health/Gym/Enhanced - Sources.md",
+        "Personal/Health/Gym/How to Give a Testosterone Intramuscular (IM) Injection.pdf",
+        "Personal/Health/Gym/Low Test & HRT Therapies.md",
+        "Personal/Health/Gym/Muscle Knots - Finally fixing them.md",
+        "Personal/Health/Gym/TRT in Thailand.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Personal/Health/Notes": {
+      "children": [
+        "Personal/Health/Notes/Health - Sources.md",
+        "Personal/Health/Notes/How to actually fix Dark Eye Circles.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Personal/Health/Records": {
+      "children": [
+        "Personal/Health/Records/CC - Alergy Test 2013 01.jpeg",
+        "Personal/Health/Records/CC - Alergy Test 2013 02.png",
+        "Personal/Health/Records/CC - Alergy Test 2013 03.png",
+        "Personal/Health/Records/CC - Allergy Test 2013.md",
+        "Personal/Health/Records/CC - Blood Test  2025.pdf"
+      ],
+      "sortOrder": "custom"
+    },
+    "Personal/Health/Social": {
+      "children": [
+        "Personal/Health/Social/(Michelle) +61422719271.pdf",
+        "Personal/Health/Social/(Michelle) +61422719271.html",
+        "Personal/Health/Social/Michelle & Our Relationship.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Personal/Health/Therapy": {
+      "children": [
+        "Personal/Health/Therapy/Finding a Therapist - Perth & Online.md",
+        "Personal/Health/Therapy/Therapy & Mental Health.md",
+        "Personal/Health/Therapy/Finding a Therapist.md",
+        "Personal/Health/Therapy/Finding a Therapist.pdf"
+      ],
+      "sortOrder": "custom"
+    },
+    "Personal/Hobbies": {
+      "children": [
+        "Personal/Hobbies/Gaming"
+      ],
+      "sortOrder": "custom"
+    },
+    "Personal/Hobbies/Gaming": {
+      "children": [
+        "Personal/Hobbies/Gaming/W40k Rogue Trader",
+        "Personal/Hobbies/Gaming/Baldurs Gate 3",
+        "Personal/Hobbies/Gaming/Gaming Backlog.md",
+        "Personal/Hobbies/Gaming/RPG Maker.md",
+        "Personal/Hobbies/Gaming/Steam Families.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Personal/Hobbies/Gaming/Baldurs Gate 3": {
+      "children": [
+        "Personal/Hobbies/Gaming/Baldurs Gate 3/BG3 Honour Mode - Dark Urge.md",
+        "Personal/Hobbies/Gaming/Baldurs Gate 3/BG3 Honour Mode - Nick Miller Multiplayer.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Personal/Hobbies/Gaming/W40k Rogue Trader": {
+      "children": [
+        "Personal/Hobbies/Gaming/W40k Rogue Trader/MerelySiutsit EnhancedContal WASOMovement.png"
+      ],
+      "sortOrder": "custom"
+    },
+    "Personal/Journal": {
+      "children": [
+        "Personal/Journal/Daily Notes",
+        "Personal/Journal/Weekly Notes",
+        "Personal/Journal/Quarterly Check",
+        "Personal/Journal/Yearly Strategies"
+      ],
+      "sortOrder": "custom"
+    },
+    "Personal/Journal/Daily Notes": {
+      "children": [
+        "Personal/Journal/Daily Notes/Bases",
+        "Personal/Journal/Daily Notes/2026"
+      ],
+      "sortOrder": "custom"
+    },
+    "Personal/Journal/Daily Notes/2026": {
+      "children": [
+        "Personal/Journal/Daily Notes/2026/2026-03-08.md",
+        "Personal/Journal/Daily Notes/2026/2026-03-09.md",
+        "Personal/Journal/Daily Notes/2026/2026-03-10.md",
+        "Personal/Journal/Daily Notes/2026/2026-03-11.md",
+        "Personal/Journal/Daily Notes/2026/2026-03-14.md",
+        "Personal/Journal/Daily Notes/2026/2026-03-17.md",
+        "Personal/Journal/Daily Notes/2026/2026-03-18.md",
+        "Personal/Journal/Daily Notes/2026/2026-03-19.md",
+        "Personal/Journal/Daily Notes/2026/2026-03-20.md",
+        "Personal/Journal/Daily Notes/2026/2026-03-21.md",
+        "Personal/Journal/Daily Notes/2026/2026-03-30.md",
+        "Personal/Journal/Daily Notes/2026/2026-04-02.md",
+        "Personal/Journal/Daily Notes/2026/2026-04-04.md",
+        "Personal/Journal/Daily Notes/2026/2026-04-10.md",
+        "Personal/Journal/Daily Notes/2026/2026-04-14.md",
+        "Personal/Journal/Daily Notes/2026/2026-04-17.md",
+        "Personal/Journal/Daily Notes/2026/2026-04-20.md",
+        "Personal/Journal/Daily Notes/2026/2026-04-22.md",
+        "Personal/Journal/Daily Notes/2026/2026-04-23.md",
+        "Personal/Journal/Daily Notes/2026/2026-05-01.md",
+        "Personal/Journal/Daily Notes/2026/2026-05-04.md",
+        "Personal/Journal/Daily Notes/2026/2026-05-08.md",
+        "Personal/Journal/Daily Notes/2026/2026-05-11.md",
+        "Personal/Journal/Daily Notes/2026/2026-05-12.md",
+        "Personal/Journal/Daily Notes/2026/2026-05-19.md",
+        "Personal/Journal/Daily Notes/2026/2026-05-20.md",
+        "Personal/Journal/Daily Notes/2026/2026-05-23.md",
+        "Personal/Journal/Daily Notes/2026/2026-06-02.md",
+        "Personal/Journal/Daily Notes/2026/2026-06-03.md",
+        "Personal/Journal/Daily Notes/2026/2026-06-04.md",
+        "Personal/Journal/Daily Notes/2026/2026-06-05.md",
+        "Personal/Journal/Daily Notes/2026/2026-06-06.md",
+        "Personal/Journal/Daily Notes/2026/2026-06-10.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Personal/Journal/Daily Notes/Bases": {
+      "children": [
+        "Personal/Journal/Daily Notes/Bases/Daily Created Notes.base",
+        "Personal/Journal/Daily Notes/Bases/Daily Note Links.base",
+        "Personal/Journal/Daily Notes/Bases/Daily Notes Board.base",
+        "Personal/Journal/Daily Notes/Bases/Notes Worked On Today.base"
+      ],
+      "sortOrder": "custom"
+    },
+    "Personal/Journal/Quarterly Check": {
+      "children": [],
+      "sortOrder": "custom"
+    },
+    "Personal/Journal/Weekly Notes": {
+      "children": [
+        "Personal/Journal/Weekly Notes/2026-W24.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Personal/Journal/Yearly Strategies": {
+      "children": [],
+      "sortOrder": "custom"
+    },
+    "Personal/Notes": {
+      "children": [
+        "Personal/Notes/Projects for Pookie",
+        "Personal/Notes/Career & Further Learning"
+      ],
+      "sortOrder": "custom"
+    },
+    "Personal/Notes/Career & Further Learning": {
+      "children": [
+        "Personal/Notes/Career & Further Learning/Acoustics - Further Learning.md",
+        "Personal/Notes/Career & Further Learning/Fitness Course - TAFE.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Personal/Notes/Projects for Pookie": {
+      "children": [
+        "Personal/Notes/Projects for Pookie/Jailbreak the Nintendo Wii.md",
+        "Personal/Notes/Projects for Pookie/Fixing Pookie & Les' House Audio.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "SPAWN & SIGNAL": {
+      "children": [
+        "SPAWN & SIGNAL/Documents",
+        "SPAWN & SIGNAL/Notes",
+        "SPAWN & SIGNAL/SPAWN Archive",
+        "SPAWN & SIGNAL/SIGNAL Audioworks",
+        "SPAWN & SIGNAL/Projects",
+        "SPAWN & SIGNAL/Career Goals",
+        "SPAWN & SIGNAL/Peerdraft Share"
+      ],
+      "sortOrder": "custom"
+    },
+    "SPAWN & SIGNAL/Career Goals": {
+      "children": [
+        "SPAWN & SIGNAL/Career Goals/2026 - Build a Professional Portfolio.md",
+        "SPAWN & SIGNAL/Career Goals/2026 - Build Genuine Industry Networks.md",
+        "SPAWN & SIGNAL/Career Goals/2026 - Land First 3 Paid Gigs.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "SPAWN & SIGNAL/Documents": {
+      "children": [
+        "SPAWN & SIGNAL/Documents/CV & Cover Letters",
+        "SPAWN & SIGNAL/Documents/Film Audio",
+        "SPAWN & SIGNAL/Documents/Network Spreadsheet.md",
+        "SPAWN & SIGNAL/Documents/SPAWN Audio - Audio Services Pitch Deck (Demo).pdf",
+        "SPAWN & SIGNAL/Documents/SPAWN Audio - Email Templates.pdf",
+        "SPAWN & SIGNAL/Documents/SPAWN Audio - Feelance Audio Outreach Program.pdf"
+      ],
+      "sortOrder": "custom"
+    },
+    "SPAWN & SIGNAL/Documents/CV & Cover Letters": {
+      "children": [
+        "SPAWN & SIGNAL/Documents/CV & Cover Letters/Cody Cork - Audio Engineer CV.pdf",
+        "SPAWN & SIGNAL/Documents/CV & Cover Letters/Cody Cork - Audio Engineer CV (Template).pdf",
+        "SPAWN & SIGNAL/Documents/CV & Cover Letters/Cody Cork - Larian Studio's Cover Letter.pdf"
+      ],
+      "sortOrder": "custom"
+    },
+    "SPAWN & SIGNAL/Documents/Film Audio": {
+      "children": [
+        "SPAWN & SIGNAL/Documents/Film Audio/Exporting AAF files Premier Pro.pdf",
+        "SPAWN & SIGNAL/Documents/Film Audio/Exporting AAF from Premier Pro for Audio.pdf",
+        "SPAWN & SIGNAL/Documents/Film Audio/Exporting OMF files for Pro Tools.pdf",
+        "SPAWN & SIGNAL/Documents/Film Audio/How To Create A Pro Tools Friendly AAF From Adobe Premiere | Production Expert.pdf",
+        "SPAWN & SIGNAL/Documents/Film Audio/How to Use Linear - A Complete Walkthrough for Beginners.pdf",
+        "SPAWN & SIGNAL/Documents/Film Audio/Location Sound Begginers Checklist.docx",
+        "SPAWN & SIGNAL/Documents/Film Audio/Sound Report Template 2024 v3.pdf"
+      ],
+      "sortOrder": "custom"
+    },
+    "SPAWN & SIGNAL/Notes": {
+      "children": [
+        "SPAWN & SIGNAL/Notes/SPAWN Audio - Business Statement.md",
+        "SPAWN & SIGNAL/Notes/Fixing - Focusrite Scarlet 18i20 (USB Issue).md",
+        "SPAWN & SIGNAL/Notes/Phase Distortion - Music Production.md",
+        "SPAWN & SIGNAL/Notes/Film Sound Post Production - Notes.md",
+        "SPAWN & SIGNAL/Notes/NILES - Sick Studio Furniture Design.md",
+        "SPAWN & SIGNAL/Notes/Twenty CRM - company.csv",
+        "SPAWN & SIGNAL/Notes/Twenty CRM - Person.csv"
+      ],
+      "sortOrder": "custom"
+    },
+    "SPAWN & SIGNAL/Peerdraft Share": {
+      "children": [],
+      "sortOrder": "custom"
+    },
+    "SPAWN & SIGNAL/Projects": {
+      "children": [
+        "SPAWN & SIGNAL/Projects/Project Ideas",
+        "SPAWN & SIGNAL/Projects/Side Quests",
+        "SPAWN & SIGNAL/Projects/Teaching"
+      ],
+      "sortOrder": "custom"
+    },
+    "SPAWN & SIGNAL/Projects/Project Ideas": {
+      "children": [
+        "SPAWN & SIGNAL/Projects/Project Ideas/Fully Metal Track (In the box).md"
+      ],
+      "sortOrder": "custom"
+    },
+    "SPAWN & SIGNAL/Projects/Side Quests": {
+      "children": [
+        "SPAWN & SIGNAL/Projects/Side Quests/Deliberate Practise",
+        "SPAWN & SIGNAL/Projects/Side Quests/DIY Projects",
+        "SPAWN & SIGNAL/Projects/Side Quests/Sound Design",
+        "SPAWN & SIGNAL/Projects/Side Quests/Spell SD Speedrun",
+        "SPAWN & SIGNAL/Projects/Side Quests/Studio Re-Design",
+        "SPAWN & SIGNAL/Projects/Side Quests/In The Box Metal - Audio Side Quest.md",
+        "SPAWN & SIGNAL/Projects/Side Quests/Universal Category System (UCS).md"
+      ],
+      "sortOrder": "custom"
+    },
+    "SPAWN & SIGNAL/Projects/Side Quests/Deliberate Practise": {
+      "children": [
+        "SPAWN & SIGNAL/Projects/Side Quests/Deliberate Practise/DPP-MX01 - 30 Day Production Sprint"
+      ],
+      "sortOrder": "custom"
+    },
+    "SPAWN & SIGNAL/Projects/Side Quests/Deliberate Practise/DPP-MX01 - 30 Day Production Sprint": {
+      "children": [
+        "SPAWN & SIGNAL/Projects/Side Quests/Deliberate Practise/DPP-MX01 - 30 Day Production Sprint/DPP-MX01 - Dashboard.base",
+        "SPAWN & SIGNAL/Projects/Side Quests/Deliberate Practise/DPP-MX01 - 30 Day Production Sprint/DPP-MX01 - Framework.md",
+        "SPAWN & SIGNAL/Projects/Side Quests/Deliberate Practise/DPP-MX01 - 30 Day Production Sprint/Track 01.md",
+        "SPAWN & SIGNAL/Projects/Side Quests/Deliberate Practise/DPP-MX01 - 30 Day Production Sprint/Track 02.md",
+        "SPAWN & SIGNAL/Projects/Side Quests/Deliberate Practise/DPP-MX01 - 30 Day Production Sprint/Track 03.md",
+        "SPAWN & SIGNAL/Projects/Side Quests/Deliberate Practise/DPP-MX01 - 30 Day Production Sprint/music_sprint_timeline.pdf"
+      ],
+      "sortOrder": "custom"
+    },
+    "SPAWN & SIGNAL/Projects/Side Quests/DIY Projects": {
+      "children": [
+        "SPAWN & SIGNAL/Projects/Side Quests/DIY Projects/Acoustic & Diffusion Panels.md",
+        "SPAWN & SIGNAL/Projects/Side Quests/DIY Projects/Contact (Piezo) Microphone.md",
+        "SPAWN & SIGNAL/Projects/Side Quests/DIY Projects/Electro Magnetic Microphone.md",
+        "SPAWN & SIGNAL/Projects/Side Quests/DIY Projects/Interface Patch Panel.md",
+        "SPAWN & SIGNAL/Projects/Side Quests/DIY Projects/Arduino MIDI Controller"
+      ],
+      "sortOrder": "custom"
+    },
+    "SPAWN & SIGNAL/Projects/Side Quests/DIY Projects/Arduino MIDI Controller": {
+      "children": [
+        "SPAWN & SIGNAL/Projects/Side Quests/DIY Projects/Arduino MIDI Controller/Arduino MIDI Controller.md",
+        "SPAWN & SIGNAL/Projects/Side Quests/DIY Projects/Arduino MIDI Controller/The MIDI Controller Builder App.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "SPAWN & SIGNAL/Projects/Side Quests/Sound Design": {
+      "children": [
+        "SPAWN & SIGNAL/Projects/Side Quests/Sound Design/Astartes W40K (Digital Bones).md",
+        "SPAWN & SIGNAL/Projects/Side Quests/Sound Design/Evangelion Sound Re-Design.md",
+        "SPAWN & SIGNAL/Projects/Side Quests/Sound Design/Spell SD Speedrun (AUD213 Edit).pdf"
+      ],
+      "sortOrder": "custom"
+    },
+    "SPAWN & SIGNAL/Projects/Side Quests/Spell SD Speedrun": {
+      "children": [
+        "SPAWN & SIGNAL/Projects/Side Quests/Spell SD Speedrun/Spell SD Speedrun (AUD213 Edit).pages",
+        "SPAWN & SIGNAL/Projects/Side Quests/Spell SD Speedrun/Spell SD Speedrun (AUD213 Edit).pdf"
+      ],
+      "sortOrder": "custom"
+    },
+    "SPAWN & SIGNAL/Projects/Side Quests/Studio Re-Design": {
+      "children": [
+        "SPAWN & SIGNAL/Projects/Side Quests/Studio Re-Design/Studio Furniture.md",
+        "SPAWN & SIGNAL/Projects/Side Quests/Studio Re-Design/Studio Re-Design.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "SPAWN & SIGNAL/Projects/Teaching": {
+      "children": [
+        "SPAWN & SIGNAL/Projects/Teaching/📚 ABLETON LESSONS • README | TASK LIST.pdf"
+      ],
+      "sortOrder": "custom"
+    },
+    "SPAWN & SIGNAL/SIGNAL Audioworks": {
+      "children": [
+        "SPAWN & SIGNAL/SIGNAL Audioworks/26T1 Capstone Archive"
+      ],
+      "sortOrder": "custom"
+    },
+    "SPAWN & SIGNAL/SIGNAL Audioworks/26T1 Capstone Archive": {
+      "children": [
+        "SPAWN & SIGNAL/SIGNAL Audioworks/26T1 Capstone Archive/Documents",
+        "SPAWN & SIGNAL/SIGNAL Audioworks/26T1 Capstone Archive/Meeting Notes",
+        "SPAWN & SIGNAL/SIGNAL Audioworks/26T1 Capstone Archive/Projects",
+        "SPAWN & SIGNAL/SIGNAL Audioworks/26T1 Capstone Archive/Resources"
+      ],
+      "sortOrder": "custom"
+    },
+    "SPAWN & SIGNAL/SIGNAL Audioworks/26T1 Capstone Archive/Documents": {
+      "children": [
+        "SPAWN & SIGNAL/SIGNAL Audioworks/26T1 Capstone Archive/Documents/316.2 - Resource Audit Table.xlsx"
+      ],
+      "sortOrder": "custom"
+    },
+    "SPAWN & SIGNAL/SIGNAL Audioworks/26T1 Capstone Archive/Meeting Notes": {
+      "children": [
+        "SPAWN & SIGNAL/SIGNAL Audioworks/26T1 Capstone Archive/Meeting Notes/W01 - Audi-OH! Meeting Minutes.pdf",
+        "SPAWN & SIGNAL/SIGNAL Audioworks/26T1 Capstone Archive/Meeting Notes/W02 - Audi-Oh! Meeting Minutes.pdf",
+        "SPAWN & SIGNAL/SIGNAL Audioworks/26T1 Capstone Archive/Meeting Notes/W02 - SIGNAL Meeting.pdf",
+        "SPAWN & SIGNAL/SIGNAL Audioworks/26T1 Capstone Archive/Meeting Notes/W04 - Facilitator Meeting.pdf",
+        "SPAWN & SIGNAL/SIGNAL Audioworks/26T1 Capstone Archive/Meeting Notes/W05 - SIGNAL Meeting.pdf",
+        "SPAWN & SIGNAL/SIGNAL Audioworks/26T1 Capstone Archive/Meeting Notes/W06 - SIGNAL Meeting.pdf"
+      ],
+      "sortOrder": "custom"
+    },
+    "SPAWN & SIGNAL/SIGNAL Audioworks/26T1 Capstone Archive/Projects": {
+      "children": [
+        "SPAWN & SIGNAL/SIGNAL Audioworks/26T1 Capstone Archive/Projects/Audi-Oh!",
+        "SPAWN & SIGNAL/SIGNAL Audioworks/26T1 Capstone Archive/Projects/Barrelhala",
+        "SPAWN & SIGNAL/SIGNAL Audioworks/26T1 Capstone Archive/Projects/Project TIDAL",
+        "SPAWN & SIGNAL/SIGNAL Audioworks/26T1 Capstone Archive/Projects/TBWSI"
+      ],
+      "sortOrder": "custom"
+    },
+    "SPAWN & SIGNAL/SIGNAL Audioworks/26T1 Capstone Archive/Projects/Audi-Oh!": {
+      "children": [],
+      "sortOrder": "custom"
+    },
+    "SPAWN & SIGNAL/SIGNAL Audioworks/26T1 Capstone Archive/Projects/Barrelhala": {
+      "children": [],
+      "sortOrder": "custom"
+    },
+    "SPAWN & SIGNAL/SIGNAL Audioworks/26T1 Capstone Archive/Projects/Project TIDAL": {
+      "children": [
+        "SPAWN & SIGNAL/SIGNAL Audioworks/26T1 Capstone Archive/Projects/Project TIDAL/Brief - Project TIDAL.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "SPAWN & SIGNAL/SIGNAL Audioworks/26T1 Capstone Archive/Projects/TBWSI": {
+      "children": [],
+      "sortOrder": "custom"
+    },
+    "SPAWN & SIGNAL/SIGNAL Audioworks/26T1 Capstone Archive/Resources": {
+      "children": [],
+      "sortOrder": "custom"
+    },
+    "SPAWN & SIGNAL/SPAWN Archive": {
+      "children": [
+        "SPAWN & SIGNAL/SPAWN Archive/YFY - 26T1 Capstone Animation",
+        "SPAWN & SIGNAL/SPAWN Archive/Pests - 26T1 Capstone Film",
+        "SPAWN & SIGNAL/SPAWN Archive/SOAPBOX 2024"
+      ],
+      "sortOrder": "custom"
+    },
+    "SPAWN & SIGNAL/SPAWN Archive/Pests - 26T1 Capstone Film": {
+      "children": [
+        "SPAWN & SIGNAL/SPAWN Archive/Pests - 26T1 Capstone Film/Pests - 26T1 Capstone Film.md",
+        "SPAWN & SIGNAL/SPAWN Archive/Pests - 26T1 Capstone Film/PESTS PITCH - Google Slides.pdf"
+      ],
+      "sortOrder": "custom"
+    },
+    "SPAWN & SIGNAL/SPAWN Archive/SOAPBOX 2024": {
+      "children": [
+        "SPAWN & SIGNAL/SPAWN Archive/SOAPBOX 2024/Sound Reports",
+        "SPAWN & SIGNAL/SPAWN Archive/SOAPBOX 2024/SOAPBOX - Work Agreement Form.pdf"
+      ],
+      "sortOrder": "custom"
+    },
+    "SPAWN & SIGNAL/SPAWN Archive/SOAPBOX 2024/Sound Reports": {
+      "children": [
+        "SPAWN & SIGNAL/SPAWN Archive/SOAPBOX 2024/Sound Reports/SB - Sound Report 1 - 13FEB24.pdf",
+        "SPAWN & SIGNAL/SPAWN Archive/SOAPBOX 2024/Sound Reports/SB - Sound Report 2 - 08MAR24.pdf",
+        "SPAWN & SIGNAL/SPAWN Archive/SOAPBOX 2024/Sound Reports/SB - Sound Report 3 - 15MAR24.pdf"
+      ],
+      "sortOrder": "custom"
+    },
+    "SPAWN & SIGNAL/SPAWN Archive/YFY - 26T1 Capstone Animation": {
+      "children": [
+        "SPAWN & SIGNAL/SPAWN Archive/YFY - 26T1 Capstone Animation/YFY - 26T1 Capstone Animation.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Studies": {
+      "children": [
+        "Studies/Archive",
+        "Studies/26T2"
+      ],
+      "sortOrder": "custom"
+    },
+    "Studies/26T2": {
+      "children": [
+        "Studies/26T2/CIM301 - Creative Skills Development",
+        "Studies/26T2/GAD170 - Game Scripting",
+        "Studies/26T2/SAE Catchup Plan.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Studies/26T2/CIM301 - Creative Skills Development": {
+      "children": [
+        "Studies/26T2/CIM301 - Creative Skills Development/Notes",
+        "Studies/26T2/CIM301 - Creative Skills Development/Unit Resources",
+        "Studies/26T2/CIM301 - Creative Skills Development/Projects",
+        "Studies/26T2/CIM301 - Creative Skills Development/Weekly Work",
+        "Studies/26T2/CIM301 - Creative Skills Development/CIM301 - Trimester Schedule.png"
+      ],
+      "sortOrder": "custom"
+    },
+    "Studies/26T2/CIM301 - Creative Skills Development/Notes": {
+      "children": [
+        "Studies/26T2/CIM301 - Creative Skills Development/Notes/A Complete Guide to Goal Setting.md",
+        "Studies/26T2/CIM301 - Creative Skills Development/Notes/Activity Arnie's 2024 Blueprint.md",
+        "Studies/26T2/CIM301 - Creative Skills Development/Notes/Example Journal Entry.md",
+        "Studies/26T2/CIM301 - Creative Skills Development/Notes/Future Proof Your Career.md",
+        "Studies/26T2/CIM301 - Creative Skills Development/Notes/Goals - Deliberate Practise.md",
+        "Studies/26T2/CIM301 - Creative Skills Development/Notes/Goals - Optimising Goals.md",
+        "Studies/26T2/CIM301 - Creative Skills Development/Notes/Goals - Framework.md",
+        "Studies/26T2/CIM301 - Creative Skills Development/Notes/Goals - Planning.md",
+        "Studies/26T2/CIM301 - Creative Skills Development/Notes/Goals - SMARTER Goals.md",
+        "Studies/26T2/CIM301 - Creative Skills Development/Notes/Goals - Setting Task Priority.md",
+        "Studies/26T2/CIM301 - Creative Skills Development/Notes/Goals - The Rule of 3.md",
+        "Studies/26T2/CIM301 - Creative Skills Development/Notes/How to Learn Faster.md",
+        "Studies/26T2/CIM301 - Creative Skills Development/Notes/Personal Goals - Notes.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Studies/26T2/CIM301 - Creative Skills Development/Projects": {
+      "children": [
+        "Studies/26T2/CIM301 - Creative Skills Development/Projects/301.1 - Skill Dev Plan",
+        "Studies/26T2/CIM301 - Creative Skills Development/Projects/301.2 - Dev Portfolio"
+      ],
+      "sortOrder": "custom"
+    },
+    "Studies/26T2/CIM301 - Creative Skills Development/Projects/301.1 - Skill Dev Plan": {
+      "children": [
+        "Studies/26T2/CIM301 - Creative Skills Development/Projects/301.1 - Skill Dev Plan/Assets",
+        "Studies/26T2/CIM301 - Creative Skills Development/Projects/301.1 - Skill Dev Plan/Notes",
+        "Studies/26T2/CIM301 - Creative Skills Development/Projects/301.1 - Skill Dev Plan/Resources",
+        "Studies/26T2/CIM301 - Creative Skills Development/Projects/301.1 - Skill Dev Plan/Documents"
+      ],
+      "sortOrder": "custom"
+    },
+    "Studies/26T2/CIM301 - Creative Skills Development/Projects/301.1 - Skill Dev Plan/Assets": {
+      "children": [],
+      "sortOrder": "custom"
+    },
+    "Studies/26T2/CIM301 - Creative Skills Development/Projects/301.1 - Skill Dev Plan/Documents": {
+      "children": [
+        "Studies/26T2/CIM301 - Creative Skills Development/Projects/301.1 - Skill Dev Plan/Documents/CIM301.1 - Creative Skills Development Plan.md",
+        "Studies/26T2/CIM301 - Creative Skills Development/Projects/301.1 - Skill Dev Plan/Documents/CIM301.1 - References List.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Studies/26T2/CIM301 - Creative Skills Development/Projects/301.1 - Skill Dev Plan/Notes": {
+      "children": [
+        "Studies/26T2/CIM301 - Creative Skills Development/Projects/301.1 - Skill Dev Plan/Notes/CIM301.1 - Personal SWOT Analysis.md",
+        "Studies/26T2/CIM301 - Creative Skills Development/Projects/301.1 - Skill Dev Plan/Notes/CIM301.1 - Industry Research.md",
+        "Studies/26T2/CIM301 - Creative Skills Development/Projects/301.1 - Skill Dev Plan/Notes/CIM301.1 - Project Research.md",
+        "Studies/26T2/CIM301 - Creative Skills Development/Projects/301.1 - Skill Dev Plan/Notes/Reaper Research - ChatGPT.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Studies/26T2/CIM301 - Creative Skills Development/Projects/301.1 - Skill Dev Plan/Resources": {
+      "children": [
+        "Studies/26T2/CIM301 - Creative Skills Development/Projects/301.1 - Skill Dev Plan/Resources/CIM301 Project 1 - Exemplar 1.pdf",
+        "Studies/26T2/CIM301 - Creative Skills Development/Projects/301.1 - Skill Dev Plan/Resources/CIM301 Project 1 - Exemplar 2.pdf",
+        "Studies/26T2/CIM301 - Creative Skills Development/Projects/301.1 - Skill Dev Plan/Resources/CIM301.1 - Creative Skills Development Plan.md",
+        "Studies/26T2/CIM301 - Creative Skills Development/Projects/301.1 - Skill Dev Plan/Resources/CIM301.P1.Nicholas_Miller.pdf",
+        "Studies/26T2/CIM301 - Creative Skills Development/Projects/301.1 - Skill Dev Plan/Resources/Reaper - Deliberate Practise Plan (Claude).pdf"
+      ],
+      "sortOrder": "custom"
+    },
+    "Studies/26T2/CIM301 - Creative Skills Development/Projects/301.2 - Dev Portfolio": {
+      "children": [
+        "Studies/26T2/CIM301 - Creative Skills Development/Projects/301.2 - Dev Portfolio/Assets",
+        "Studies/26T2/CIM301 - Creative Skills Development/Projects/301.2 - Dev Portfolio/Documents",
+        "Studies/26T2/CIM301 - Creative Skills Development/Projects/301.2 - Dev Portfolio/Project Files",
+        "Studies/26T2/CIM301 - Creative Skills Development/Projects/301.2 - Dev Portfolio/Resources",
+        "Studies/26T2/CIM301 - Creative Skills Development/Projects/301.2 - Dev Portfolio/[Deliverables]"
+      ],
+      "sortOrder": "custom"
+    },
+    "Studies/26T2/CIM301 - Creative Skills Development/Projects/301.2 - Dev Portfolio/[Deliverables]": {
+      "children": [],
+      "sortOrder": "custom"
+    },
+    "Studies/26T2/CIM301 - Creative Skills Development/Projects/301.2 - Dev Portfolio/Assets": {
+      "children": [],
+      "sortOrder": "custom"
+    },
+    "Studies/26T2/CIM301 - Creative Skills Development/Projects/301.2 - Dev Portfolio/Documents": {
+      "children": [],
+      "sortOrder": "custom"
+    },
+    "Studies/26T2/CIM301 - Creative Skills Development/Projects/301.2 - Dev Portfolio/Project Files": {
+      "children": [],
+      "sortOrder": "custom"
+    },
+    "Studies/26T2/CIM301 - Creative Skills Development/Projects/301.2 - Dev Portfolio/Resources": {
+      "children": [],
+      "sortOrder": "custom"
+    },
+    "Studies/26T2/CIM301 - Creative Skills Development/Unit Resources": {
+      "children": [
+        "Studies/26T2/CIM301 - Creative Skills Development/Unit Resources/CIM301 - Creative Skill Development.pdf",
+        "Studies/26T2/CIM301 - Creative Skills Development/Unit Resources/CIM301 - Goal Setting Ch01.pdf",
+        "Studies/26T2/CIM301 - Creative Skills Development/Unit Resources/CIM301 - Goal Setting Ch03.pdf",
+        "Studies/26T2/CIM301 - Creative Skills Development/Unit Resources/CIM301 - Goal Setting Ch06.pdf",
+        "Studies/26T2/CIM301 - Creative Skills Development/Unit Resources/CIM301 - Goal Setting Ch07.pdf",
+        "Studies/26T2/CIM301 - Creative Skills Development/Unit Resources/CIM301 Handbook v.1.2.pdf"
+      ],
+      "sortOrder": "custom"
+    },
+    "Studies/26T2/CIM301 - Creative Skills Development/Weekly Work": {
+      "children": [
+        "Studies/26T2/CIM301 - Creative Skills Development/Weekly Work/CIM301 - Template.md",
+        "Studies/26T2/CIM301 - Creative Skills Development/Weekly Work/CIM301 - W01.md",
+        "Studies/26T2/CIM301 - Creative Skills Development/Weekly Work/CIM301 - W02.md",
+        "Studies/26T2/CIM301 - Creative Skills Development/Weekly Work/CIM301 - W03.md",
+        "Studies/26T2/CIM301 - Creative Skills Development/Weekly Work/CIM301 - W04.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Studies/26T2/GAD170 - Game Scripting": {
+      "children": [
+        "Studies/26T2/GAD170 - Game Scripting/Notes",
+        "Studies/26T2/GAD170 - Game Scripting/Projects",
+        "Studies/26T2/GAD170 - Game Scripting/Unit Resources",
+        "Studies/26T2/GAD170 - Game Scripting/Weekly Work"
+      ],
+      "sortOrder": "custom"
+    },
+    "Studies/26T2/GAD170 - Game Scripting/Notes": {
+      "children": [
+        "Studies/26T2/GAD170 - Game Scripting/Notes/GAD170 - Code Explanation & Organisation.md",
+        "Studies/26T2/GAD170 - Game Scripting/Notes/GAD170 - Debugging & Operations.md",
+        "Studies/26T2/GAD170 - Game Scripting/Notes/GAD170 - Flowcharts.md",
+        "Studies/26T2/GAD170 - Game Scripting/Notes/GAD170 - If Statements.md",
+        "Studies/26T2/GAD170 - Game Scripting/Notes/GAD170 - Pseudocode Examples.md",
+        "Studies/26T2/GAD170 - Game Scripting/Notes/GAD170 - Random Numbers.md",
+        "Studies/26T2/GAD170 - Game Scripting/Notes/GAD170 - Scope & Local Variables.md",
+        "Studies/26T2/GAD170 - Game Scripting/Notes/GAD170 - Variables.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Studies/26T2/GAD170 - Game Scripting/Projects": {
+      "children": [
+        "Studies/26T2/GAD170 - Game Scripting/Projects/170.1 - Stats & Levels",
+        "Studies/26T2/GAD170 - Game Scripting/Projects/170.2 - Game States & Interactions"
+      ],
+      "sortOrder": "custom"
+    },
+    "Studies/26T2/GAD170 - Game Scripting/Projects/170.1 - Stats & Levels": {
+      "children": [
+        "Studies/26T2/GAD170 - Game Scripting/Projects/170.1 - Stats & Levels/Assets",
+        "Studies/26T2/GAD170 - Game Scripting/Projects/170.1 - Stats & Levels/Documents",
+        "Studies/26T2/GAD170 - Game Scripting/Projects/170.1 - Stats & Levels/Notes",
+        "Studies/26T2/GAD170 - Game Scripting/Projects/170.1 - Stats & Levels/Resources",
+        "Studies/26T2/GAD170 - Game Scripting/Projects/170.1 - Stats & Levels/Project Files"
+      ],
+      "sortOrder": "custom"
+    },
+    "Studies/26T2/GAD170 - Game Scripting/Projects/170.1 - Stats & Levels/Assets": {
+      "children": [
+        "Studies/26T2/GAD170 - Game Scripting/Projects/170.1 - Stats & Levels/Assets/GAD170.1 - Flowchart v1.pdf",
+        "Studies/26T2/GAD170 - Game Scripting/Projects/170.1 - Stats & Levels/Assets/GAD170.1 - Flowchart v2.png",
+        "Studies/26T2/GAD170 - Game Scripting/Projects/170.1 - Stats & Levels/Assets/GAD170.1 - Pseudo Code v1.md",
+        "Studies/26T2/GAD170 - Game Scripting/Projects/170.1 - Stats & Levels/Assets/GAD170.1 - Pseudo Code v2.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Studies/26T2/GAD170 - Game Scripting/Projects/170.1 - Stats & Levels/Documents": {
+      "children": [
+        "Studies/26T2/GAD170 - Game Scripting/Projects/170.1 - Stats & Levels/Documents/GAD170.1 - Project Documentation.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Studies/26T2/GAD170 - Game Scripting/Projects/170.1 - Stats & Levels/Notes": {
+      "children": [
+        "Studies/26T2/GAD170 - Game Scripting/Projects/170.1 - Stats & Levels/Notes/GAD170.1 - Project Checklist.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Studies/26T2/GAD170 - Game Scripting/Projects/170.1 - Stats & Levels/Project Files": {
+      "children": [],
+      "sortOrder": "custom"
+    },
+    "Studies/26T2/GAD170 - Game Scripting/Projects/170.1 - Stats & Levels/Resources": {
+      "children": [
+        "Studies/26T2/GAD170 - Game Scripting/Projects/170.1 - Stats & Levels/Resources/170.1 - Outline.pdf",
+        "Studies/26T2/GAD170 - Game Scripting/Projects/170.1 - Stats & Levels/Resources/Nick's Scripts"
+      ],
+      "sortOrder": "custom"
+    },
+    "Studies/26T2/GAD170 - Game Scripting/Projects/170.1 - Stats & Levels/Resources/Nick's Scripts": {
+      "children": [
+        "Studies/26T2/GAD170 - Game Scripting/Projects/170.1 - Stats & Levels/Resources/Nick's Scripts/Battle Handler.txt",
+        "Studies/26T2/GAD170 - Game Scripting/Projects/170.1 - Stats & Levels/Resources/Nick's Scripts/Enemy Respawn.txt",
+        "Studies/26T2/GAD170 - Game Scripting/Projects/170.1 - Stats & Levels/Resources/Nick's Scripts/Enemy Script.txt",
+        "Studies/26T2/GAD170 - Game Scripting/Projects/170.1 - Stats & Levels/Resources/Nick's Scripts/Player.txt",
+        "Studies/26T2/GAD170 - Game Scripting/Projects/170.1 - Stats & Levels/Resources/Nick's Scripts/UI Manager.txt"
+      ],
+      "sortOrder": "custom"
+    },
+    "Studies/26T2/GAD170 - Game Scripting/Projects/170.2 - Game States & Interactions": {
+      "children": [
+        "Studies/26T2/GAD170 - Game Scripting/Projects/170.2 - Game States & Interactions/Assets",
+        "Studies/26T2/GAD170 - Game Scripting/Projects/170.2 - Game States & Interactions/Documents",
+        "Studies/26T2/GAD170 - Game Scripting/Projects/170.2 - Game States & Interactions/Project Files",
+        "Studies/26T2/GAD170 - Game Scripting/Projects/170.2 - Game States & Interactions/Resources"
+      ],
+      "sortOrder": "custom"
+    },
+    "Studies/26T2/GAD170 - Game Scripting/Projects/170.2 - Game States & Interactions/Assets": {
+      "children": [],
+      "sortOrder": "custom"
+    },
+    "Studies/26T2/GAD170 - Game Scripting/Projects/170.2 - Game States & Interactions/Documents": {
+      "children": [],
+      "sortOrder": "custom"
+    },
+    "Studies/26T2/GAD170 - Game Scripting/Projects/170.2 - Game States & Interactions/Project Files": {
+      "children": [],
+      "sortOrder": "custom"
+    },
+    "Studies/26T2/GAD170 - Game Scripting/Projects/170.2 - Game States & Interactions/Resources": {
+      "children": [],
+      "sortOrder": "custom"
+    },
+    "Studies/26T2/GAD170 - Game Scripting/Unit Resources": {
+      "children": [
+        "Studies/26T2/GAD170 - Game Scripting/Unit Resources/GAD170 - Game Scripting.pdf",
+        "Studies/26T2/GAD170 - Game Scripting/Unit Resources/Setup GitHub & Sourcetree.pdf"
+      ],
+      "sortOrder": "custom"
+    },
+    "Studies/26T2/GAD170 - Game Scripting/Weekly Work": {
+      "children": [
+        "Studies/26T2/GAD170 - Game Scripting/Weekly Work/GAD170 - Game Scripting.md",
+        "Studies/26T2/GAD170 - Game Scripting/Weekly Work/GAD170 - W01.md",
+        "Studies/26T2/GAD170 - Game Scripting/Weekly Work/GAD170 - W02.md",
+        "Studies/26T2/GAD170 - Game Scripting/Weekly Work/GAD170 - W03.md",
+        "Studies/26T2/GAD170 - Game Scripting/Weekly Work/GAD170 - W04.md",
+        "Studies/26T2/GAD170 - Game Scripting/Weekly Work/GAD170 - W05.md",
+        "Studies/26T2/GAD170 - Game Scripting/Weekly Work/GAD170 - W06.md",
+        "Studies/26T2/GAD170 - Game Scripting/Weekly Work/GAD170 - W07.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Studies/Archive": {
+      "children": [
+        "Studies/Archive/MUB203.1 - Project Overview.md",
+        "Studies/Archive/26T1",
+        "Studies/Archive/AUD213 - Audio Studio 3",
+        "Studies/Archive/CIM316 - Major Project Planning",
+        "Studies/Archive/CIM330 - Major Project Development"
+      ],
+      "sortOrder": "custom"
+    },
+    "Studies/Archive/26T1": {
+      "children": [
+        "Studies/Archive/26T1/CIM301 - (Deferred)",
+        "Studies/Archive/26T1/CIM310 - (Deferred)",
+        "Studies/Archive/26T1/GAD170 - (Deferred)",
+        "Studies/Archive/26T1/SAE Study Notes - 26T1 W7.pdf"
+      ],
+      "sortOrder": "custom"
+    },
+    "Studies/Archive/26T1/CIM301 - (Deferred)": {
+      "children": [
+        "Studies/Archive/26T1/CIM301 - (Deferred)/Notes",
+        "Studies/Archive/26T1/CIM301 - (Deferred)/Projects",
+        "Studies/Archive/26T1/CIM301 - (Deferred)/Unit Resources",
+        "Studies/Archive/26T1/CIM301 - (Deferred)/Weekly Work"
+      ],
+      "sortOrder": "custom"
+    },
+    "Studies/Archive/26T1/CIM301 - (Deferred)/Notes": {
+      "children": [
+        "Studies/Archive/26T1/CIM301 - (Deferred)/Notes/A Complete Guide to Goal Setting.md",
+        "Studies/Archive/26T1/CIM301 - (Deferred)/Notes/Activity Arnie's 2024 Blueprint.md",
+        "Studies/Archive/26T1/CIM301 - (Deferred)/Notes/Example Journal Entry.md",
+        "Studies/Archive/26T1/CIM301 - (Deferred)/Notes/Future Proof Your Career.md",
+        "Studies/Archive/26T1/CIM301 - (Deferred)/Notes/Goals - Deliberate Practise.md",
+        "Studies/Archive/26T1/CIM301 - (Deferred)/Notes/Goals - Framework.md",
+        "Studies/Archive/26T1/CIM301 - (Deferred)/Notes/Goals - Optimising Goals.md",
+        "Studies/Archive/26T1/CIM301 - (Deferred)/Notes/Goals - Planning.md",
+        "Studies/Archive/26T1/CIM301 - (Deferred)/Notes/Goals - Setting Task Priority.md",
+        "Studies/Archive/26T1/CIM301 - (Deferred)/Notes/Goals - SMARTER Goals.md",
+        "Studies/Archive/26T1/CIM301 - (Deferred)/Notes/Goals - The Rule of 3.md",
+        "Studies/Archive/26T1/CIM301 - (Deferred)/Notes/How to Learn Faster.md",
+        "Studies/Archive/26T1/CIM301 - (Deferred)/Notes/Personal Goals - Notes.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Studies/Archive/26T1/CIM301 - (Deferred)/Projects": {
+      "children": [
+        "Studies/Archive/26T1/CIM301 - (Deferred)/Projects/301.1 - Skill Dev Plan",
+        "Studies/Archive/26T1/CIM301 - (Deferred)/Projects/301.2 - Dev Portfolio"
+      ],
+      "sortOrder": "custom"
+    },
+    "Studies/Archive/26T1/CIM301 - (Deferred)/Projects/301.1 - Skill Dev Plan": {
+      "children": [
+        "Studies/Archive/26T1/CIM301 - (Deferred)/Projects/301.1 - Skill Dev Plan/Assets",
+        "Studies/Archive/26T1/CIM301 - (Deferred)/Projects/301.1 - Skill Dev Plan/Documents",
+        "Studies/Archive/26T1/CIM301 - (Deferred)/Projects/301.1 - Skill Dev Plan/Notes",
+        "Studies/Archive/26T1/CIM301 - (Deferred)/Projects/301.1 - Skill Dev Plan/Resources"
+      ],
+      "sortOrder": "custom"
+    },
+    "Studies/Archive/26T1/CIM301 - (Deferred)/Projects/301.1 - Skill Dev Plan/Assets": {
+      "children": [],
+      "sortOrder": "custom"
+    },
+    "Studies/Archive/26T1/CIM301 - (Deferred)/Projects/301.1 - Skill Dev Plan/Documents": {
+      "children": [
+        "Studies/Archive/26T1/CIM301 - (Deferred)/Projects/301.1 - Skill Dev Plan/Documents/CIM301.1 - Creative Skills Development Plan.md",
+        "Studies/Archive/26T1/CIM301 - (Deferred)/Projects/301.1 - Skill Dev Plan/Documents/CIM301.1 - References List.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Studies/Archive/26T1/CIM301 - (Deferred)/Projects/301.1 - Skill Dev Plan/Notes": {
+      "children": [
+        "Studies/Archive/26T1/CIM301 - (Deferred)/Projects/301.1 - Skill Dev Plan/Notes/CIM301.1 - Industry Research.md",
+        "Studies/Archive/26T1/CIM301 - (Deferred)/Projects/301.1 - Skill Dev Plan/Notes/CIM301.1 - Personal SWOT Analysis.md",
+        "Studies/Archive/26T1/CIM301 - (Deferred)/Projects/301.1 - Skill Dev Plan/Notes/CIM301.1 - Project Research.md",
+        "Studies/Archive/26T1/CIM301 - (Deferred)/Projects/301.1 - Skill Dev Plan/Notes/Reaper Research - ChatGPT.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Studies/Archive/26T1/CIM301 - (Deferred)/Projects/301.1 - Skill Dev Plan/Resources": {
+      "children": [
+        "Studies/Archive/26T1/CIM301 - (Deferred)/Projects/301.1 - Skill Dev Plan/Resources/CIM301 Project 1 - Exemplar 1.pdf",
+        "Studies/Archive/26T1/CIM301 - (Deferred)/Projects/301.1 - Skill Dev Plan/Resources/CIM301 Project 1 - Exemplar 2.pdf",
+        "Studies/Archive/26T1/CIM301 - (Deferred)/Projects/301.1 - Skill Dev Plan/Resources/CIM301.1 - Creative Skills Development Plan.md",
+        "Studies/Archive/26T1/CIM301 - (Deferred)/Projects/301.1 - Skill Dev Plan/Resources/CIM301.P1.Nicholas_Miller.pdf",
+        "Studies/Archive/26T1/CIM301 - (Deferred)/Projects/301.1 - Skill Dev Plan/Resources/Reaper - Deliberate Practise Plan (Claude).pdf"
+      ],
+      "sortOrder": "custom"
+    },
+    "Studies/Archive/26T1/CIM301 - (Deferred)/Projects/301.2 - Dev Portfolio": {
+      "children": [
+        "Studies/Archive/26T1/CIM301 - (Deferred)/Projects/301.2 - Dev Portfolio/[Deliverables]",
+        "Studies/Archive/26T1/CIM301 - (Deferred)/Projects/301.2 - Dev Portfolio/Assets",
+        "Studies/Archive/26T1/CIM301 - (Deferred)/Projects/301.2 - Dev Portfolio/Documents",
+        "Studies/Archive/26T1/CIM301 - (Deferred)/Projects/301.2 - Dev Portfolio/Project Files",
+        "Studies/Archive/26T1/CIM301 - (Deferred)/Projects/301.2 - Dev Portfolio/Resources"
+      ],
+      "sortOrder": "custom"
+    },
+    "Studies/Archive/26T1/CIM301 - (Deferred)/Projects/301.2 - Dev Portfolio/[Deliverables]": {
+      "children": [],
+      "sortOrder": "custom"
+    },
+    "Studies/Archive/26T1/CIM301 - (Deferred)/Projects/301.2 - Dev Portfolio/Assets": {
+      "children": [],
+      "sortOrder": "custom"
+    },
+    "Studies/Archive/26T1/CIM301 - (Deferred)/Projects/301.2 - Dev Portfolio/Documents": {
+      "children": [],
+      "sortOrder": "custom"
+    },
+    "Studies/Archive/26T1/CIM301 - (Deferred)/Projects/301.2 - Dev Portfolio/Project Files": {
+      "children": [],
+      "sortOrder": "custom"
+    },
+    "Studies/Archive/26T1/CIM301 - (Deferred)/Projects/301.2 - Dev Portfolio/Resources": {
+      "children": [],
+      "sortOrder": "custom"
+    },
+    "Studies/Archive/26T1/CIM301 - (Deferred)/Unit Resources": {
+      "children": [
+        "Studies/Archive/26T1/CIM301 - (Deferred)/Unit Resources/CIM301 - Creative Skill Development.pdf",
+        "Studies/Archive/26T1/CIM301 - (Deferred)/Unit Resources/CIM301 - Goal Setting Ch01.pdf",
+        "Studies/Archive/26T1/CIM301 - (Deferred)/Unit Resources/CIM301 - Goal Setting Ch03.pdf",
+        "Studies/Archive/26T1/CIM301 - (Deferred)/Unit Resources/CIM301 - Goal Setting Ch06.pdf",
+        "Studies/Archive/26T1/CIM301 - (Deferred)/Unit Resources/CIM301 - Goal Setting Ch07.pdf",
+        "Studies/Archive/26T1/CIM301 - (Deferred)/Unit Resources/CIM301 Handbook v.1.2.pdf"
+      ],
+      "sortOrder": "custom"
+    },
+    "Studies/Archive/26T1/CIM301 - (Deferred)/Weekly Work": {
+      "children": [
+        "Studies/Archive/26T1/CIM301 - (Deferred)/Weekly Work/CIM301 - Template.md",
+        "Studies/Archive/26T1/CIM301 - (Deferred)/Weekly Work/CIM301 - W01.md",
+        "Studies/Archive/26T1/CIM301 - (Deferred)/Weekly Work/CIM301 - W02.md",
+        "Studies/Archive/26T1/CIM301 - (Deferred)/Weekly Work/CIM301 - W03.md",
+        "Studies/Archive/26T1/CIM301 - (Deferred)/Weekly Work/CIM301 - W04.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Studies/Archive/26T1/CIM310 - (Deferred)": {
+      "children": [
+        "Studies/Archive/26T1/CIM310 - (Deferred)/Blog",
+        "Studies/Archive/26T1/CIM310 - (Deferred)/Documents",
+        "Studies/Archive/26T1/CIM310 - (Deferred)/Notes",
+        "Studies/Archive/26T1/CIM310 - (Deferred)/Unit Resources",
+        "Studies/Archive/26T1/CIM310 - (Deferred)/CIM310 - Checklist.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Studies/Archive/26T1/CIM310 - (Deferred)/Blog": {
+      "children": [
+        "Studies/Archive/26T1/CIM310 - (Deferred)/Blog/310 - Blog Ideas.md",
+        "Studies/Archive/26T1/CIM310 - (Deferred)/Blog/310 - Initial Blog Post.md",
+        "Studies/Archive/26T1/CIM310 - (Deferred)/Blog/310 - Portfolio Blog.base"
+      ],
+      "sortOrder": "custom"
+    },
+    "Studies/Archive/26T1/CIM310 - (Deferred)/Documents": {
+      "children": [
+        "Studies/Archive/26T1/CIM310 - (Deferred)/Documents/Freelance Outreach Playbook",
+        "Studies/Archive/26T1/CIM310 - (Deferred)/Documents/Job Application Assets",
+        "Studies/Archive/26T1/CIM310 - (Deferred)/Documents/Wrong Stranger Film",
+        "Studies/Archive/26T1/CIM310 - (Deferred)/Documents/Game Development studios with Alumni - Sheet1.csv"
+      ],
+      "sortOrder": "custom"
+    },
+    "Studies/Archive/26T1/CIM310 - (Deferred)/Documents/Freelance Outreach Playbook": {
+      "children": [
+        "Studies/Archive/26T1/CIM310 - (Deferred)/Documents/Freelance Outreach Playbook/email_templates.md",
+        "Studies/Archive/26T1/CIM310 - (Deferred)/Documents/Freelance Outreach Playbook/email_templates.pdf",
+        "Studies/Archive/26T1/CIM310 - (Deferred)/Documents/Freelance Outreach Playbook/outreach_strategy_playbook.md",
+        "Studies/Archive/26T1/CIM310 - (Deferred)/Documents/Freelance Outreach Playbook/outreach_strategy_playbook.pdf",
+        "Studies/Archive/26T1/CIM310 - (Deferred)/Documents/Freelance Outreach Playbook/pitch_deck.md",
+        "Studies/Archive/26T1/CIM310 - (Deferred)/Documents/Freelance Outreach Playbook/pitch_deck.pdf"
+      ],
+      "sortOrder": "custom"
+    },
+    "Studies/Archive/26T1/CIM310 - (Deferred)/Documents/Job Application Assets": {
+      "children": [
+        "Studies/Archive/26T1/CIM310 - (Deferred)/Documents/Job Application Assets/Cover Letters",
+        "Studies/Archive/26T1/CIM310 - (Deferred)/Documents/Job Application Assets/CC - Audio Engineer CV.pdf",
+        "Studies/Archive/26T1/CIM310 - (Deferred)/Documents/Job Application Assets/CC - Audio Engineer CV (Template).pdf"
+      ],
+      "sortOrder": "custom"
+    },
+    "Studies/Archive/26T1/CIM310 - (Deferred)/Documents/Job Application Assets/Cover Letters": {
+      "children": [
+        "Studies/Archive/26T1/CIM310 - (Deferred)/Documents/Job Application Assets/Cover Letters/CC - Guru Prod CL.pdf",
+        "Studies/Archive/26T1/CIM310 - (Deferred)/Documents/Job Application Assets/Cover Letters/CC - Larian Studio CL.pdf"
+      ],
+      "sortOrder": "custom"
+    },
+    "Studies/Archive/26T1/CIM310 - (Deferred)/Documents/Wrong Stranger Film": {
+      "children": [
+        "Studies/Archive/26T1/CIM310 - (Deferred)/Documents/Wrong Stranger Film/Call-Sheet-8th-March.pdf",
+        "Studies/Archive/26T1/CIM310 - (Deferred)/Documents/Wrong Stranger Film/CALLSHEET-1OTH-MARCH-DAY-9.pdf",
+        "Studies/Archive/26T1/CIM310 - (Deferred)/Documents/Wrong Stranger Film/CALLSHEET-MARCH-11TH-DAY-10.pdf",
+        "Studies/Archive/26T1/CIM310 - (Deferred)/Documents/Wrong Stranger Film/CALLSHEET-SUN-15TH-MARCH.pdf",
+        "Studies/Archive/26T1/CIM310 - (Deferred)/Documents/Wrong Stranger Film/CALLSHEET-THURS-19TH-MARCH.pdf"
+      ],
+      "sortOrder": "custom"
+    },
+    "Studies/Archive/26T1/CIM310 - (Deferred)/Notes": {
+      "children": [
+        "Studies/Archive/26T1/CIM310 - (Deferred)/Notes/Freelance Outreach",
+        "Studies/Archive/26T1/CIM310 - (Deferred)/Notes/310 - Cover Letters.md",
+        "Studies/Archive/26T1/CIM310 - (Deferred)/Notes/310 - Resume Writing Tips.md",
+        "Studies/Archive/26T1/CIM310 - (Deferred)/Notes/310 - Scratch Pad.md",
+        "Studies/Archive/26T1/CIM310 - (Deferred)/Notes/Alumni Game Development Studio.md",
+        "Studies/Archive/26T1/CIM310 - (Deferred)/Notes/Guru Productions - Cover Letter.md",
+        "Studies/Archive/26T1/CIM310 - (Deferred)/Notes/Possible Contacts for Mentorship.md",
+        "Studies/Archive/26T1/CIM310 - (Deferred)/Notes/Wrong Stranger - Feature Film.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Studies/Archive/26T1/CIM310 - (Deferred)/Notes/Freelance Outreach": {
+      "children": [
+        "Studies/Archive/26T1/CIM310 - (Deferred)/Notes/Freelance Outreach/DOCX & PPTX",
+        "Studies/Archive/26T1/CIM310 - (Deferred)/Notes/Freelance Outreach/PDF",
+        "Studies/Archive/26T1/CIM310 - (Deferred)/Notes/Freelance Outreach/Email Outreach - Templates.md",
+        "Studies/Archive/26T1/CIM310 - (Deferred)/Notes/Freelance Outreach/Freelance Pitch Deck.md",
+        "Studies/Archive/26T1/CIM310 - (Deferred)/Notes/Freelance Outreach/Outreach Playbook.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Studies/Archive/26T1/CIM310 - (Deferred)/Notes/Freelance Outreach/DOCX & PPTX": {
+      "children": [
+        "Studies/Archive/26T1/CIM310 - (Deferred)/Notes/Freelance Outreach/DOCX & PPTX/email_templates.docx",
+        "Studies/Archive/26T1/CIM310 - (Deferred)/Notes/Freelance Outreach/DOCX & PPTX/outreach_strategy_playbook.docx",
+        "Studies/Archive/26T1/CIM310 - (Deferred)/Notes/Freelance Outreach/DOCX & PPTX/pitch_deck.pptx"
+      ],
+      "sortOrder": "custom"
+    },
+    "Studies/Archive/26T1/CIM310 - (Deferred)/Notes/Freelance Outreach/PDF": {
+      "children": [
+        "Studies/Archive/26T1/CIM310 - (Deferred)/Notes/Freelance Outreach/PDF/email_templates.pdf",
+        "Studies/Archive/26T1/CIM310 - (Deferred)/Notes/Freelance Outreach/PDF/outreach_strategy_playbook.pdf",
+        "Studies/Archive/26T1/CIM310 - (Deferred)/Notes/Freelance Outreach/PDF/pitch_deck.pdf"
+      ],
+      "sortOrder": "custom"
+    },
+    "Studies/Archive/26T1/CIM310 - (Deferred)/Unit Resources": {
+      "children": [
+        "Studies/Archive/26T1/CIM310 - (Deferred)/Unit Resources/CIM310 - Work Integrated Learning.md",
+        "Studies/Archive/26T1/CIM310 - (Deferred)/Unit Resources/CIM310 - Work Integrated Learning.pdf"
+      ],
+      "sortOrder": "custom"
+    },
+    "Studies/Archive/26T1/GAD170 - (Deferred)": {
+      "children": [
+        "Studies/Archive/26T1/GAD170 - (Deferred)/Notes",
+        "Studies/Archive/26T1/GAD170 - (Deferred)/Projects",
+        "Studies/Archive/26T1/GAD170 - (Deferred)/Unit Resources",
+        "Studies/Archive/26T1/GAD170 - (Deferred)/Weekly Work"
+      ],
+      "sortOrder": "custom"
+    },
+    "Studies/Archive/26T1/GAD170 - (Deferred)/Notes": {
+      "children": [
+        "Studies/Archive/26T1/GAD170 - (Deferred)/Notes/GAD170 - Code Explanation & Organisation.md",
+        "Studies/Archive/26T1/GAD170 - (Deferred)/Notes/GAD170 - Debugging & Operations.md",
+        "Studies/Archive/26T1/GAD170 - (Deferred)/Notes/GAD170 - Flowcharts.md",
+        "Studies/Archive/26T1/GAD170 - (Deferred)/Notes/GAD170 - If Statements.md",
+        "Studies/Archive/26T1/GAD170 - (Deferred)/Notes/GAD170 - Pseudocode Examples.md",
+        "Studies/Archive/26T1/GAD170 - (Deferred)/Notes/GAD170 - Random Numbers.md",
+        "Studies/Archive/26T1/GAD170 - (Deferred)/Notes/GAD170 - Scope & Local Variables.md",
+        "Studies/Archive/26T1/GAD170 - (Deferred)/Notes/GAD170 - Variables.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Studies/Archive/26T1/GAD170 - (Deferred)/Projects": {
+      "children": [
+        "Studies/Archive/26T1/GAD170 - (Deferred)/Projects/170.1 - Stats & Levels",
+        "Studies/Archive/26T1/GAD170 - (Deferred)/Projects/170.2 - Game States & Interactions"
+      ],
+      "sortOrder": "custom"
+    },
+    "Studies/Archive/26T1/GAD170 - (Deferred)/Projects/170.1 - Stats & Levels": {
+      "children": [
+        "Studies/Archive/26T1/GAD170 - (Deferred)/Projects/170.1 - Stats & Levels/Assets",
+        "Studies/Archive/26T1/GAD170 - (Deferred)/Projects/170.1 - Stats & Levels/Documents",
+        "Studies/Archive/26T1/GAD170 - (Deferred)/Projects/170.1 - Stats & Levels/Notes",
+        "Studies/Archive/26T1/GAD170 - (Deferred)/Projects/170.1 - Stats & Levels/Resources"
+      ],
+      "sortOrder": "custom"
+    },
+    "Studies/Archive/26T1/GAD170 - (Deferred)/Projects/170.1 - Stats & Levels/Assets": {
+      "children": [
+        "Studies/Archive/26T1/GAD170 - (Deferred)/Projects/170.1 - Stats & Levels/Assets/GAD170.1 - Flowchart v1.pdf",
+        "Studies/Archive/26T1/GAD170 - (Deferred)/Projects/170.1 - Stats & Levels/Assets/GAD170.1 - Flowchart v2.png",
+        "Studies/Archive/26T1/GAD170 - (Deferred)/Projects/170.1 - Stats & Levels/Assets/GAD170.1 - Pseudo Code v1.md",
+        "Studies/Archive/26T1/GAD170 - (Deferred)/Projects/170.1 - Stats & Levels/Assets/GAD170.1 - Pseudo Code v2.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Studies/Archive/26T1/GAD170 - (Deferred)/Projects/170.1 - Stats & Levels/Documents": {
+      "children": [
+        "Studies/Archive/26T1/GAD170 - (Deferred)/Projects/170.1 - Stats & Levels/Documents/GAD170.1 - Project Documentation.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Studies/Archive/26T1/GAD170 - (Deferred)/Projects/170.1 - Stats & Levels/Notes": {
+      "children": [],
+      "sortOrder": "custom"
+    },
+    "Studies/Archive/26T1/GAD170 - (Deferred)/Projects/170.1 - Stats & Levels/Resources": {
+      "children": [
+        "Studies/Archive/26T1/GAD170 - (Deferred)/Projects/170.1 - Stats & Levels/Resources/Nick's Scripts",
+        "Studies/Archive/26T1/GAD170 - (Deferred)/Projects/170.1 - Stats & Levels/Resources/170.1 - Outline.pdf"
+      ],
+      "sortOrder": "custom"
+    },
+    "Studies/Archive/26T1/GAD170 - (Deferred)/Projects/170.1 - Stats & Levels/Resources/Nick's Scripts": {
+      "children": [
+        "Studies/Archive/26T1/GAD170 - (Deferred)/Projects/170.1 - Stats & Levels/Resources/Nick's Scripts/Battle Handler.txt",
+        "Studies/Archive/26T1/GAD170 - (Deferred)/Projects/170.1 - Stats & Levels/Resources/Nick's Scripts/Enemy Respawn.txt",
+        "Studies/Archive/26T1/GAD170 - (Deferred)/Projects/170.1 - Stats & Levels/Resources/Nick's Scripts/Enemy Script.txt",
+        "Studies/Archive/26T1/GAD170 - (Deferred)/Projects/170.1 - Stats & Levels/Resources/Nick's Scripts/Player.txt",
+        "Studies/Archive/26T1/GAD170 - (Deferred)/Projects/170.1 - Stats & Levels/Resources/Nick's Scripts/UI Manager.txt"
+      ],
+      "sortOrder": "custom"
+    },
+    "Studies/Archive/26T1/GAD170 - (Deferred)/Projects/170.2 - Game States & Interactions": {
+      "children": [
+        "Studies/Archive/26T1/GAD170 - (Deferred)/Projects/170.2 - Game States & Interactions/Assets",
+        "Studies/Archive/26T1/GAD170 - (Deferred)/Projects/170.2 - Game States & Interactions/Documents",
+        "Studies/Archive/26T1/GAD170 - (Deferred)/Projects/170.2 - Game States & Interactions/Project Files",
+        "Studies/Archive/26T1/GAD170 - (Deferred)/Projects/170.2 - Game States & Interactions/Resources"
+      ],
+      "sortOrder": "custom"
+    },
+    "Studies/Archive/26T1/GAD170 - (Deferred)/Projects/170.2 - Game States & Interactions/Assets": {
+      "children": [],
+      "sortOrder": "custom"
+    },
+    "Studies/Archive/26T1/GAD170 - (Deferred)/Projects/170.2 - Game States & Interactions/Documents": {
+      "children": [],
+      "sortOrder": "custom"
+    },
+    "Studies/Archive/26T1/GAD170 - (Deferred)/Projects/170.2 - Game States & Interactions/Project Files": {
+      "children": [],
+      "sortOrder": "custom"
+    },
+    "Studies/Archive/26T1/GAD170 - (Deferred)/Projects/170.2 - Game States & Interactions/Resources": {
+      "children": [],
+      "sortOrder": "custom"
+    },
+    "Studies/Archive/26T1/GAD170 - (Deferred)/Unit Resources": {
+      "children": [
+        "Studies/Archive/26T1/GAD170 - (Deferred)/Unit Resources/GAD170 - Game Scripting.pdf",
+        "Studies/Archive/26T1/GAD170 - (Deferred)/Unit Resources/Setup GitHub & Sourcetree.pdf"
+      ],
+      "sortOrder": "custom"
+    },
+    "Studies/Archive/26T1/GAD170 - (Deferred)/Weekly Work": {
+      "children": [
+        "Studies/Archive/26T1/GAD170 - (Deferred)/Weekly Work/GAD170 - Game Scripting.md",
+        "Studies/Archive/26T1/GAD170 - (Deferred)/Weekly Work/GAD170 - W01.md",
+        "Studies/Archive/26T1/GAD170 - (Deferred)/Weekly Work/GAD170 - W02.md",
+        "Studies/Archive/26T1/GAD170 - (Deferred)/Weekly Work/GAD170 - W03.md",
+        "Studies/Archive/26T1/GAD170 - (Deferred)/Weekly Work/GAD170 - W04.md",
+        "Studies/Archive/26T1/GAD170 - (Deferred)/Weekly Work/GAD170 - W05.md",
+        "Studies/Archive/26T1/GAD170 - (Deferred)/Weekly Work/GAD170 - W06.md",
+        "Studies/Archive/26T1/GAD170 - (Deferred)/Weekly Work/GAD170 - W07.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Studies/Archive/AUD213 - Audio Studio 3": {
+      "children": [
+        "Studies/Archive/AUD213 - Audio Studio 3/Documents"
+      ],
+      "sortOrder": "custom"
+    },
+    "Studies/Archive/AUD213 - Audio Studio 3/Documents": {
+      "children": [
+        "Studies/Archive/AUD213 - Audio Studio 3/Documents/AUD213 - Mixing Concepts for Screen.pdf"
+      ],
+      "sortOrder": "custom"
+    },
+    "Studies/Archive/CIM316 - Major Project Planning": {
+      "children": [
+        "Studies/Archive/CIM316 - Major Project Planning/Documents"
+      ],
+      "sortOrder": "custom"
+    },
+    "Studies/Archive/CIM316 - Major Project Planning/Documents": {
+      "children": [
+        "Studies/Archive/CIM316 - Major Project Planning/Documents/316 - Freelance Collective Presentation.pdf",
+        "Studies/Archive/CIM316 - Major Project Planning/Documents/316.1  Creator Collective - Workflow Example.png",
+        "Studies/Archive/CIM316 - Major Project Planning/Documents/Bullet Hell Sound Design Research.docx",
+        "Studies/Archive/CIM316 - Major Project Planning/Documents/CIM316.P1 Presentation Scripts.docx",
+        "Studies/Archive/CIM316 - Major Project Planning/Documents/Presentation Outline.docx"
+      ],
+      "sortOrder": "custom"
+    },
+    "Studies/Archive/CIM330 - Major Project Development": {
+      "children": [],
+      "sortOrder": "custom"
+    }
+  },
+  "sortOrder": "custom",
+  "debugMode": false,
+  "newItemPlacement": "bottom"
+}

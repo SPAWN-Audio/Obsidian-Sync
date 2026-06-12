@@ -1,0 +1,43 @@
+views:
+  - type: cards
+    name: Games List
+    filters:
+      and:
+        - file.inFolder("Archive/Collection/Games")
+    groupBy:
+      property: Complete
+      direction: DESC
+    order:
+      - file.name
+      - Rating
+      - Complete
+      - Genre
+      - Status
+    sort:
+      - property: file.name
+        direction: ASC
+      - property: tags
+        direction: DESC
+    image: note.Cover Image
+    cardSize: 150
+    imageAspectRatio: 1.65
+  - type: cards
+    name: Achievement Hunting
+    filters:
+      and:
+        - file.inFolder("Archive/Collection/Games")
+        - Complete == false
+    groupBy:
+      property: Status
+      direction: DESC
+    order:
+      - file.name
+      - Rating
+      - Genre
+      - Status
+    sort:
+      - property: Status
+        direction: DESC
+    image: note.Cover Image
+    cardSize: 150
+    imageAspectRatio: 1.65

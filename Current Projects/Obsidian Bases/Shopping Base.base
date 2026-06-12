@@ -1,0 +1,51 @@
+views:
+  - type: cards
+    name: All Shopping
+    filters:
+      and:
+        - file.inFolder("Archive/Shopping")
+    groupBy:
+      property: file.folder
+      direction: ASC
+    image: note.Cover Image
+    imageAspectRatio: 0.7
+  - type: cards
+    name: House Shopping
+    filters:
+      and:
+        - file.inFolder("Archive/Shopping/House")
+    groupBy:
+      property: file.folder
+      direction: ASC
+    image: note.Cover Image
+    imageAspectRatio: 0.7
+  - type: cards
+    name: Apparel Shopping
+    filters:
+      and:
+        - file.inFolder("Archive/Shopping")
+    groupBy:
+      property: file.folder
+      direction: ASC
+    image: note.Cover Image
+    imageAspectRatio: 0.7
+  - type: cards
+    name: Tech Shopping
+    filters:
+      and:
+        - file.inFolder("Archive/Shopping/Technology")
+    groupBy:
+      property: file.folder
+      direction: ASC
+    image: note.Cover Image
+    imageAspectRatio: 0.7
+  - type: cards
+    name: Studio Shopping
+    filters:
+      and:
+        - file.inFolder("Archive/Shopping/Studio")
+    groupBy:
+      property: file.folder
+      direction: ASC
+    image: note.Cover Image
+    imageAspectRatio: 0.7

@@ -1,0 +1,37 @@
+views:
+  - type: cards
+    name: Card View
+    filters:
+      and:
+        - file.tags.contains("Daily-Note")
+    order:
+      - file.name
+      - tags
+      - file.links
+      - file.embeds
+      - Type
+    sort:
+      - property: file.name
+        direction: DESC
+  - type: cards
+    name: Yesterday
+    filters:
+      and:
+        - file.ctime.date() == today() - "1 day"
+        - file.folder == "Personal/Daily Notes"
+    cardSize: 140
+    imageAspectRatio: 1
+  - type: table
+    name: Card View 2
+    filters:
+      and:
+        - file.tags.contains("Daily-Note")
+    order:
+      - file.name
+      - tags
+      - file.links
+      - file.embeds
+      - Type
+    sort:
+      - property: file.name
+        direction: DESC
