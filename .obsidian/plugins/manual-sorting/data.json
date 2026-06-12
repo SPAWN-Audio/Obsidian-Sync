@@ -9,7 +9,7 @@
         "Studies",
         "House",
         "Archive",
-        "🌐 Homepage.md"
+        "README.md"
       ],
       "sortOrder": "custom"
     },
@@ -937,6 +937,7 @@
     },
     "Inbox": {
       "children": [
+        "Inbox/🌐 Homepage.md",
         "Inbox/Beginners Guide to Digital Asset Management.pdf",
         "Inbox/Build Your Own Max For Live Devices: A Beginner's Guide.pdf",
         "Inbox/Business _ Work Mindset - Slab.md",
@@ -1007,7 +1008,10 @@
         "Inbox/Tokyo Cyberpunk - Posthumanism in Japanese Visual Culture -- Brown, Steven T_; -- Springer Nature, New York, 2010 -- [distributor] Macmillan -- 9780230103597 -- a8213c24717b2cf17fd78afd32dffaf4 -- Anna’s Archive.pdf",
         "Inbox/Using Grooves — Ableton Reference Manual Version 12 | Ableton.pdf",
         "Inbox/Water Filter Invoice - IN000433.pdf",
-        "Inbox/Wider Manual.pdf"
+        "Inbox/Wider Manual.pdf",
+        "Inbox/Picking an IDE & Testing out Tower Git.md",
+        "Inbox/Testing out new Web Browsers.md",
+        "Inbox/Sidebar Favourites - Custom Finder Sidebar Icons.md"
       ],
       "sortOrder": "custom"
     },
@@ -1282,7 +1286,8 @@
         "Personal/Journal/Daily Notes/2026/2026-06-04.md",
         "Personal/Journal/Daily Notes/2026/2026-06-05.md",
         "Personal/Journal/Daily Notes/2026/2026-06-06.md",
-        "Personal/Journal/Daily Notes/2026/2026-06-10.md"
+        "Personal/Journal/Daily Notes/2026/2026-06-10.md",
+        "Personal/Journal/Daily Notes/2026/2026-06-12.md"
       ],
       "sortOrder": "custom"
     },

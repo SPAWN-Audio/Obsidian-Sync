@@ -15,7 +15,7 @@
       "write": {
         "type": "day"
       },
-      "confirmCreation": true,
+      "confirmCreation": false,
       "nameTemplate": "{{date}}",
       "dateFormat": "YYYY-MM-DD",
       "folder": "Personal/Journal/Daily Notes/2026",

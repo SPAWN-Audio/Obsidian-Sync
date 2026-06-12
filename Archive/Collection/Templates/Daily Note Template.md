@@ -4,6 +4,7 @@ tags:
 Author: Cody Cork
 ---
 [[<% tp.date.now("YYYY-MM-DD", -1) %>|← Yesterday]] - [[<% tp.date.now("YYYY-MM-DD", +1) %>|Tomorrow →]]
+
 # Brain Dump
 
 ## 
